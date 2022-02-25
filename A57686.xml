@@ -1,0 +1,4319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of approved divinity-books which have been printed or reprinted about twenty years past, and continued down to this present year, 1657, mensis Junii 18.</title>
+            <author>Rothwell, John, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57686</idno>
+            <idno type="STC">Wing R2003</idno>
+            <idno type="STC">ESTC R34006</idno>
+            <idno type="EEBO-CITATION">13658168</idno>
+            <idno type="OCLC">ocm 13658168</idno>
+            <idno type="VID">101054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of approved divinity-books which have been printed or reprinted about twenty years past, and continued down to this present year, 1657, mensis Junii 18.</title>
+                  <author>Rothwell, John, d. 1661.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Much inlarged.</edition>
+               </editionStmt>
+               <extent>[6], 92 [i.e. 107] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Rothwell by Wing and NUC pre-1956 imprints.</note>
+                  <note>Prefatory note signed: J.R.</note>
+                  <note>"A catalogue of sermons upon sundry occasions : some printed long since, others of late years" is on p. 69-95.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious literature --  Bibliography.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101054:1" rendition="simple:additions"/>
+            <p>A CATALOGUE Of Approved DIVINITY-BOOKS, Which have been Printed or reprinted about twenty Years paſt, And Continued down to this preſent Year, 1657, <hi>Menſis Junii</hi> 18.</p>
+            <p>Much inlarged.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for JOHN ROTHWELL, at the Fountain in Gold-Smiths Row in <hi>Cheapſide,</hi> 1657.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101054:2"/>
+            <pb facs="tcp:101054:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O ſatisfie the Studious, both Miniſters and o<g ref="char:EOLhyphen"/>thers, that deſire to ſee a Catalogue of the moſt Approved Orthodox Books <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat have been printed for about <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>entie years paſt, and likewiſe what hath been publiſhed lately, Here is preſented thee in this ſmall Manual, the moſt Approved Au<g ref="char:EOLhyphen"/>thors (in the Judgement of them that are both Wiſe and Learned.) Though in ſome few of them ſome<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:101054:3"/>may be diſputable, yet be<g ref="char:EOLhyphen"/>cauſe their Practical Pieces may be of good uſe (being read with a Caution) I have inſerted them.</p>
+            <p>I have on purpoſe waved the Heterodox Divinity Books, as not worth naming, which have much prejudiced the Church, and ſtuffed the Shops of ſome, to the corrupting the Heads and Hearts of thoſe that receive not the Truth in the love of it, but are given up to be<g ref="char:EOLhyphen"/>lieve a lye.</p>
+            <p>I have left between every Let<g ref="char:EOLhyphen"/>ter ſpaces, that thou maiſt add what Books come forth in the inte<g ref="char:EOLhyphen"/>rim.</p>
+            <p>I have alſo put a Starre in the Margin of thoſe that came forth la<g ref="char:EOLhyphen"/>teſt.</p>
+            <pb facs="tcp:101054:3"/>
+            <p>If this give ſatisfaction to thoſe Miniſters beyond the ſea, and theſe at home, that deſire ſome ſuch thing, the defects in this ſhall be ſuppli<g ref="char:EOLhyphen"/>ed, and what other choice Pieces come forth in this kind (if God permit) ſhall be added</p>
+            <closer>
+               <signed>By one that deſires to be found a Friend to the Truth, J. R.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>ED. CALAMY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="bibliography">
+            <pb facs="tcp:101054:4"/>
+            <pb n="1" facs="tcp:101054:4"/>
+            <head>A CATALOGUE OF The moſt approved <hi>Divinity-BOOKS, The greateſt part whereof have been printed or re-printed many yeers agoe, and thoſe with a * prefixed, printed or re<g ref="char:EOLhyphen"/>printed lately</hi>
+            </head>
+            <list>
+               <head>A</head>
+               <item>*<hi>ANnotations</hi> upon the Bible, by di<g ref="char:EOLhyphen"/>vers learned Miniſters, in two volumes in <hi>folio</hi> reprinting</item>
+               <item>Mr. <hi>Ainſworth</hi> on Pentateuch <hi>folio</hi>
+                  <list>
+                     <item>Pſalms <hi>folio</hi>
+                     </item>
+                     <item>Canticles <hi>folio</hi>
+                     </item>
+                     <item>againſt Anabaptiſts 4</item>
+                  </list>
+               </item>
+               <pb n="2" facs="tcp:101054:5"/>
+               <item>The Annotations on the whole bible by choice learned men in <hi>Germany</hi> and o<g ref="char:EOLhyphen"/>ther parts, tranſlated out of the dutch copy now in the preſſe.</item>
+               <item>D. <hi>Arrowſmith Tarticorum ſacrorum li<g ref="char:EOLhyphen"/>bri.</hi> 4. Printing at <hi>Camb.</hi>
+               </item>
+               <item>
+                  <hi>Alablaſters</hi> Lexicon Heb. <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Adams</hi> on Peter <hi>fol.</hi>
+                  <list>
+                     <item>Sermons, <hi>fol.</hi>
+                     </item>
+                     <item>Gods Anger, 4.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Arnd'ts</hi> divinity 8.</item>
+               <item>
+                  <hi>Allen</hi> and <hi>Shephard</hi> againſt <hi>Ball</hi> 4.</item>
+               <item>
+                  <hi>Ainſworth</hi> marrow of the Bible 8.
+<list>
+                     <item>Communion of Saints, in 12</item>
+                     <item>Arrow againſt Idolatry, in <hi>fol.</hi> &amp; 12</item>
+                  </list>
+               </item>
+               <item>D. <hi>Airay</hi> on Philppians in 4.</item>
+               <item>Bp. <hi>Andrews</hi> Sermons. <hi>folio</hi>
+                  <list>
+                     <item>on Commandments, <hi>folio</hi>
+                     </item>
+                     <item>Chatechiſticall Doctrine 12</item>
+                     <item>manual for the ſick 24</item>
+                     <item>private devotions 24</item>
+                     <item>of prayer 12</item>
+                     <item>of Tythes 4</item>
+                     <item>of Epiſcopacy 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Atterſol</hi> on Numbers, <hi>folio</hi>
+                  <list>
+                     <item>on Philemon <hi>folio</hi>
+                     </item>
+                     <item>on Jonah 4</item>
+                     <item>on the Sacraments 4</item>
+                     <item>Catechiſme 8</item>
+                  </list>
+               </item>
+               <pb n="3" facs="tcp:101054:5" rendition="simple:additions"/>
+               <item>* M. <hi>Ambroſe, Prima, media, ultima:</hi> a practicall Piece. 4</item>
+               <item>* M. <hi>Abbot</hi> of Houſhold Government. 8
+<list>
+                     <item>Young Mans Warning-Piece 12</item>
+                     <item>againſt the Browniſts 12</item>
+                     <item>Hand of Fellowſhip 4</item>
+                     <item>Four Sermons 8</item>
+                     <item>Milk for Babes 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Abbot's</hi> Paraphraſe on Job 4
+<list>
+                     <item>on the Pſalms 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Vindiciae Sabbathi</hi> 4</item>
+               <item>D. <hi>Abbot</hi> on Jonah 4
+<list>
+                     <item>Two Vol. againſt <hi>Biſhop</hi> 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Angier</hi> Helps to get better hearts 12</item>
+               <item>
+                  <hi>Ames</hi> marrow of divinity 4
+<list>
+                     <item>on Peter, <hi>lat.</hi> and <hi>eng.</hi> 4. 8</item>
+                     <item>Caſes of Conſcience 4</item>
+                     <item>in Pſalmes 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Aſſemblyes</hi> Confeſ. and Catechiſe large and ſmall, with Scriptures at length in the preſſe 4</item>
+               <item>
+                  <hi>Aſſemblyes</hi> Reaſons 4
+<list>
+                     <item>4 Tracts 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Athertons</hi> Life 8</item>
+               <item>
+                  <hi>Aſhwell</hi> on the Creed 8</item>
+               <item>
+                  <hi>Acontius</hi> Satans Stratagems 4
+<list>
+                     <item>preſumption mans mirror 12</item>
+                     <item>Scripture-manifeſtation 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Albertus</hi> of adhering to God 8</item>
+               <pb n="4" facs="tcp:101054:6"/>
+               <item>
+                  <hi>Arraignment</hi> of the Creature 4</item>
+               <item>
+                  <hi>Antidote</hi> againſt ſinne 12</item>
+               <item>Dr. <hi>Anthonys</hi> Goſpel Phyſician 4</item>
+               <item>
+                  <hi>Apology</hi> for the Miniſtry 4</item>
+               <item>
+                  <hi>Alingtons</hi> Sermons 12</item>
+               <item>
+                  <hi>Archer</hi> of Chriſts perſonall reign 4</item>
+               <item>
+                  <hi>Antoninus</hi> Meditation Engl. 4</item>
+               <item>S. <hi>Ambroſs</hi> Chriſtian offices 4</item>
+               <item>
+                  <hi>Alefords</hi> Church Triumphant 12
+<list>
+                     <item>ſouls diſpenſatory 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Articles</hi> of the Church of England be<g ref="char:EOLhyphen"/>ing 39. 4</item>
+               <item>
+                  <hi>Articles</hi> of the Church of Ireland 4</item>
+            </list>
+            <pb n="5" facs="tcp:101054:6"/>
+            <list>
+               <head>B</head>
+               <item>
+                  <hi>Bodius in Ephefios fol.</hi>
+               </item>
+               <item>Mr. <hi>Baine</hi> on the Epheſians <hi>fol.</hi>
+                  <list>
+                     <item>on Coloſſians 4</item>
+                     <item>Directions to a godly life 12</item>
+                     <item>his Letters 12</item>
+                     <item>Spirituall Armour 12</item>
+                     <item>Dioceſans Triall 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Brinſley</hi> on Mediatorſhip, 8
+<list>
+                     <item>* Braſen Serpent 8</item>
+                     <item>* Communion of the Saints 12</item>
+                     <item>Severall Sermons 4</item>
+                     <item>ſtand ſtill 4</item>
+                     <item>antidote againſt Schiſme 4</item>
+                     <item>againſt the Anabaptiſts 4</item>
+                     <item>Teares over Jeruſalem 8</item>
+                     <item>a Sermon of Ordination</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>N. Byfield</hi> on Coloſſians <hi>fol.</hi>
+                  <list>
+                     <item>on Peter <hi>fol.</hi>
+                     </item>
+                     <item>on the Creed 4</item>
+                     <item>Oracles of God 12</item>
+                     <pb n="6" facs="tcp:101054:7"/>
+                     <item>Principles 12</item>
+                     <item>on the Promiſes 12</item>
+                     <item>ſignes of a godly man 12</item>
+                     <item>Directions 12</item>
+                     <item>Eſſay of Aſſurance 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bohemian</hi> Churches perſecution 8</item>
+               <item>Hen. <hi>Burtons</hi> Truth-triumph over Trent 4
+<list>
+                     <item>Iſraels faſt 4</item>
+                     <item>on the ſixt and 7 Trumpets</item>
+                     <item>on the 9. 10. 11. <hi>Revel.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Beard</hi> and Dr. <hi>Taylor</hi> Theatre of Gods Judgements <hi>folio</hi>
+               </item>
+               <item>* Mr <hi>Baxters</hi> Saints Reſt 4
+<list>
+                     <item>* Directions about ſettling peace with God 12</item>
+                     <item>* Concord of Churches 4</item>
+                     <item>of the day of judgement 12</item>
+                     <item>of making light the Goſpel 8</item>
+                     <item>of unbeliefe 8</item>
+                     <item>
+                        <hi>Gildas Salvianus</hi> Or Reformed paſtor 8</item>
+                     <item>* Of Baptiſm, againſt M. <hi>Tombes</hi> 4</item>
+                     <item>* Defence of the <hi>Worſterſh.</hi> Petit. 4</item>
+                     <item>* Apologie againſt M. <hi>Eyres</hi> and M. <hi>Crandon</hi> &amp;c 4</item>
+                     <item>* Two Sermons at the Aſſiſe 12</item>
+                     <item>* his confeſſion of Faith 4</item>
+                     <item>A Chatechiſme drawne up by him and the Miniſters of <hi>Worceſterſh.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="7" facs="tcp:101054:7"/>
+               <item>Mr. <hi>Burges</hi> Refining, firſt part <hi>folio</hi>
+                  <list>
+                     <item>ſecond part 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>De Lege,</hi> againſt Antinomianiſm 4
+<list>
+                     <item>* Of Juſtification the firſt part, 4</item>
+                     <item>* of Juſtification the ſecond part, on <hi>John</hi> 17. 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Bulkley</hi> on the Covenant 4</item>
+               <item>*M. <hi>Bohemus</hi> on 100 Scriptures opened and applyed: called the <hi>Chriſtians Delight:</hi> with an Appendix about promiſcuous receiving the Sacrament 8</item>
+               <item>M. <hi>Bradſhaw</hi> on the Theſſalonians 4
+<list>
+                     <item>of Juſtification 12</item>
+                     <item>Sin againſt the H. Ghoſt 12</item>
+                     <item>on the Sacrament 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Burroughs</hi> Jewel of contentment 4
+<list>
+                     <item>Goſpel-Worſhip <hi>quarto</hi>
+                     </item>
+                     <item>Converſation <hi>quarto</hi>
+                     </item>
+                     <item>Earthly-mindedneſs <hi>quarto</hi>
+                     </item>
+                     <item>Irenicon <hi>quarto</hi>
+                     </item>
+                     <item>Lord of Hoſts <hi>quarto</hi>
+                     </item>
+                     <item>Gracious Spirit <hi>octavo</hi>
+                     </item>
+                     <item>
+                        <hi>Moſes</hi> Selfe-denyal <hi>octavo</hi>
+                     </item>
+                     <item>
+                        <hi>Moſes</hi> Choice 4</item>
+                     <item>Jacobs ſeed 12</item>
+                     <item>Saints treaſury 4</item>
+                     <item>Of Faith and Hope and evil of ſin, Sermons before the Parliament 4</item>
+                     <item>on <hi>Hoſea</hi> 4</item>
+                     <pb n="8" facs="tcp:101054:8"/>
+                     <item>of England 8</item>
+                     <item>againſt Militere 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Barkers</hi> pſalmes 12</item>
+               <item>
+                  <hi>Bartons</hi> pſalmes 12</item>
+               <item>
+                  <hi>Bakers</hi> Inſtauration of grace and glory 8</item>
+               <item>
+                  <hi>Bembridge</hi> Gods fury Englands fire 4</item>
+               <item>
+                  <hi>Bartlets</hi> Balſome 4</item>
+               <item>
+                  <hi>Benbridge</hi> againſt uſury 4</item>
+               <item>
+                  <hi>Bowen</hi> account of Church Catholike 4</item>
+               <item>M. <hi>Bowles, Paſtore Evangelico</hi> 4</item>
+               <item>M. <hi>Bridge</hi> his Works 4 <hi>Containing</hi>
+                  <list>
+                     <item>Benefit of Chriſts Prieſtly Office 4</item>
+                     <item>Satans power to tempt, &amp; Chriſts love to his under temptations. 4</item>
+                     <item>Thankfulneſs required in every condition 4</item>
+                     <item>Grace for Grace 4</item>
+                     <item>Spirituall actings of Faith 4</item>
+                     <item>Evangelical Repentance 4</item>
+                     <item>Spirituall Life 4</item>
+                     <item>The woman of Canaan 4</item>
+                     <item>A vindication of Ordinances 4</item>
+                     <item>With ſome few Sermons, as of Gods Anger and Babylons downfall 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Bridges</hi> new piece in 4</item>
+               <item>M. <hi>Broxolme</hi> on <hi>Perkins</hi> Chatechiſm, ope<g ref="char:EOLhyphen"/>ning the ſix principles Sermon wiſe 8</item>
+               <pb n="9" facs="tcp:101054:8"/>
+               <item>M <hi>Robert Boltons</hi> Directions to walk with God 4
+<list>
+                     <item>Diſcourſe on the Firſt pſalme 4</item>
+                     <item>Inſtruction for afflicted Conſcien ces 4</item>
+                     <item>Foure laſt things 4</item>
+                     <item>carnall Profeſſor 12</item>
+                     <item>helps of humiliation 8</item>
+                     <item>and on Uſury</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Breerwood</hi> on Sabbath 4
+<list>
+                     <item>Enquiries 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Rich. Byfield</hi> on Sabbath 4
+<list>
+                     <item>Light of faith 12</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Boys</hi> Poſtils <hi>fol.</hi>
+                  <list>
+                     <item>Mr <hi>Bernards</hi> concordance <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Babingtons</hi> works <hi>fol.</hi>
+               </item>
+               <item>Mr. <hi>Barlow</hi> on Timothie <hi>fol.</hi>
+                  <list>
+                     <item>of ſpirituall ſtedfaſtneſſe <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>D. <hi>Sam. Bolton</hi> Arraignment of errors 4
+<list>
+                     <item>Bounds of Chriſtian freedom 8</item>
+                     <item>Wedding garment 8</item>
+                     <item>Toſled Ship, 8</item>
+                     <item>on ſin &amp; the Royalties of faith <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Ball</hi> on Faith 4
+<list>
+                     <item>on the Covenant 4</item>
+                     <item>againſt <hi>Cann</hi> 4</item>
+                     <item>againſt Separation 4</item>
+                     <item>Larger Chatechiſme 8</item>
+                     <item>Smaller Catechiſme 8</item>
+                     <pb n="10" facs="tcp:101054:9"/>
+                     <item>A new piece in <hi>folio</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>D. <hi>Bilſon</hi> on Chriſts Sufferings, <hi>folio</hi>
+                  <list>
+                     <item>of Government, 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Blake</hi> on the Covenant of Grace 4
+<list>
+                     <item>of Baptiſm 4</item>
+                     <item>of the Seals of the Covenant 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Cor. Burges</hi> baptiſmal Regeneration, 4
+<list>
+                     <item>of zeale 12</item>
+                     <item>ſeverall Sermons 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Baker</hi> on the Lords Prayer 4
+<list>
+                     <item>on the Creed 12</item>
+                     <item>meditations 12</item>
+                     <item>on the firſt Pſalme 4</item>
+                     <item>on 7 Conſolatory pſalmes 4</item>
+                     <item>7 Penitentiall pſalmes 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Birckbecks</hi> Proteſtants evidence 4
+<list>
+                     <item>4 laſt things 4</item>
+                     <item>Cordialls 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bernards</hi> Iſle of man 12
+<list>
+                     <item>way to good works 4</item>
+                     <item>on the Sabbath 4</item>
+                     <item>on Conſcience 12</item>
+                     <item>Rheims againſt <hi>Rome</hi>
+                     </item>
+                     <item>Faithfull Shephard 12</item>
+                  </list>
+               </item>
+               <item>* <hi>Bucklers</hi> God all in all 8</item>
+               <item>
+                  <hi>Benthams</hi> Chriſtian conflict 4
+<list>
+                     <item>Society of Saints 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Beza in novum Testamentum folio</hi>
+               </item>
+               <item>
+                  <hi>Bedford de Sacramentis</hi> 8
+<list>
+                     <pb n="11" facs="tcp:101054:9"/>
+                     <item>againſt the Antinomians 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Brooks</hi> remedies 4
+<list>
+                     <item>on Aſſurance 8</item>
+                     <item>Riches of Chriſt 4 and a new Piece</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Baly</hi> againſt Errors 4</item>
+               <item>
+                  <hi>Elenchus Chatech. Error.</hi> 12</item>
+               <item>
+                  <hi>Brownings</hi> 6 Sermons of prayer 4</item>
+               <item>D. <hi>Burges</hi> of Ceremonies 4</item>
+               <item>
+                  <hi>Brightman</hi> on Revelation 4
+<list>
+                     <item>on canticles 4</item>
+                     <item>on Daniel 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Redivivus</hi> 4 Sermons 4</item>
+               <item>
+                  <hi>Bithner</hi> in Pſalmes 4
+<list>
+                     <item>Hebrew Grammar</item>
+                     <item>Lethargy 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bogans</hi> Scripture-threats 8
+<list>
+                     <item>mirth 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Blow</hi> at the Root 4</item>
+               <item>
+                  <hi>Balls</hi> 6 Sermons 12</item>
+               <item>
+                  <hi>Biſcows</hi> glorious myſteries 8</item>
+               <item>
+                  <hi>Bee-hive</hi> of the Romiſh Church 8</item>
+               <item>M. <hi>Robert Bolton</hi> on the firſt pſalme 4
+<list>
+                     <item>Direction to walk with God</item>
+                     <item>Inſtructions for afflicted Conſci<g ref="char:EOLhyphen"/>ences</item>
+                     <item>Four things 4</item>
+                     <item>of Examination</item>
+                     <item>Helps to Humiliation</item>
+                     <item>Of Uſury</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="12" facs="tcp:101054:10"/>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>Calvins</hi> Inſtitutions <hi>fol.</hi>
+                  <list>
+                     <item>Harmony 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Crums</hi> of comfort 24</item>
+               <item>
+                  <hi>Cotton</hi> on Canticles 8
+<list>
+                     <item>2 picees 8</item>
+                     <item>Way of life <hi>quarto</hi>
+                     </item>
+                     <item>Gods mercy <hi>quarto</hi>
+                     </item>
+                     <item>Keys of the kingdom, <hi>&amp;c quarto</hi>
+                     </item>
+                     <item>Vials <hi>quarto</hi>
+                     </item>
+                     <item>Way of the Churches <hi>quarto</hi>
+                     </item>
+                     <item>Conſtitution of a Church <hi>quarto</hi>
+                     </item>
+                     <item>Congregationall Way <hi>quarto</hi>
+                     </item>
+                     <item>of Baptiſme <hi>quarto</hi>
+                     </item>
+                     <item>of ſinging Pſalms <hi>quarto</hi>
+                     </item>
+                     <item>Holineſs of Church memb. <hi>quarto</hi>
+                     </item>
+                     <item>of publike Prayer <hi>quarto</hi>
+                     </item>
+                     <item>Bloudy Tenent, againſt <hi>Williams;</hi> and is about Magiſtracie 4</item>
+                     <item>Covenant of Grace 4</item>
+                     <item>* Fountain of Life 4</item>
+                     <pb n="13" facs="tcp:101054:10"/>
+                     <item>Gods Promiſe 4</item>
+                     <item>A Letter to M. <hi>Williams</hi> 4</item>
+                     <item>* of Eccleſiaſtes 8</item>
+                     <item>on Revelation 4</item>
+                     <item>Goſpel Converſion 8</item>
+                     <item>on Covenant of grace 8</item>
+                     <item>abſtract of government 4</item>
+                     <item>on John <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cawdry Superſtitio Superſtes</hi> 4</item>
+               <item>Mr. <hi>Cawdry</hi> and Mr. <hi>Palmer</hi> on the Sab<g ref="char:EOLhyphen"/>bath, two parts 4
+<list>
+                     <item>The power of the Keys 4</item>
+                     <item>againſt Dr. <hi>Hammond,</hi> called his <hi>Diatriba</hi> 8</item>
+                     <item>againſt Independency 4</item>
+                     <item>on Family reformation 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Cottons</hi> Concordance <hi>fol.</hi>
+               </item>
+               <item>Mr. <hi>Sam. Clarks</hi> Martyrology, the firſt part <hi>fol.</hi>
+                  <list>
+                     <item>* The ſecond part <hi>fol.</hi>
+                     </item>
+                     <item>* Lives of the Primitive Fathers and modern Divines 4</item>
+                     <item>* Lives of eminent Chriſtians 4</item>
+                     <item>* Examples of Gods judgements of ſeverall offendors <hi>fol.</hi>
+                     </item>
+                     <item>* Life of <hi>Tamberlaine</hi> 4</item>
+                     <item>His relation of the Powder trea<g ref="char:EOLhyphen"/>ſon by it ſelf 8. for all families</item>
+                  </list>
+               </item>
+               <item>M. <hi>Caryl</hi> on Job, in ſeven Volumes 4
+<list>
+                     <pb n="14" facs="tcp:101054:11"/>
+                     <item>1 Volume on 1 2 3 Chapt</item>
+                     <item>2 Volume on 4 5 6 7 Chapt</item>
+                     <item>3 Volume on 8 9 10 Chapt</item>
+                     <item>4 Volume on 11 12 13 14 Chapt</item>
+                     <item>5 Volume on 15 16 17 Chapt</item>
+                     <item>6 Volume on 18 19 20 21 Chapt</item>
+                     <item>7 Volume</item>
+                  </list>
+               </item>
+               <item>M. <hi>Cobbet</hi> of Baptiſme 4
+<list>
+                     <item>Of Magiſtracy 4</item>
+                     <item>of Prayer Ejaculatory, Cloſet, Fa<g ref="char:EOLhyphen"/>mily, Publike. 8</item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Carletons</hi> Remembrance of the fifth of November 1605, never to be forgot<g ref="char:EOLhyphen"/>ten 4</item>
+               <item>M. <hi>Caſe</hi> his Encouragements 4
+<list>
+                     <item>Divers Sermons 4</item>
+                     <item>Of Correction and Inſtruction 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Culverwell</hi> Light of Nature, with ten Sermons 4
+<list>
+                     <item>White ſtone alone, a Treatiſe of Aſſurance 8</item>
+                  </list>
+               </item>
+               <item>K. <hi>Charles</hi> 1. defence of Epiſcopacy 4</item>
+               <item>
+                  <hi>Culverwells</hi> Time well ſpent 12
+<list>
+                     <item>of Faith 12</item>
+                     <item>ready way to remember Script. 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Clarks</hi> holy oile in the Preſſe <hi>folio</hi> holy Incenſe 12
+<list>
+                     <item>Saints Noſegay 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Caudries</hi> ſimilies 4</item>
+               <pb n="15" facs="tcp:101054:11"/>
+               <item>
+                  <hi>Carpenters</hi> Achitophel 12</item>
+               <item>
+                  <hi>Cradocks</hi> Goſpel-holineſs 4
+<list>
+                     <item>Goſpel-libetty 4</item>
+                     <item>Divine drops 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Carters</hi> Tomb-ſtone 8</item>
+               <item>
+                  <hi>Cromptons</hi> Principles 12</item>
+               <item>
+                  <hi>Collets</hi> Devotions 24</item>
+               <item>
+                  <hi>Crookes</hi> guide to Bleſſedneſſe 12
+<list>
+                     <item>his Life 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cole</hi> of Aſſurance 4</item>
+               <item>
+                  <hi>Contemplatio mortis</hi> 12</item>
+               <item>
+                  <hi>Crakenthorp</hi> againſt <hi>Baronius folio</hi>
+               </item>
+               <item>
+                  <hi>Collins</hi> Spouſe 4
+<list>
+                     <item>Cordials in 3 parts 4</item>
+                     <item>5 leſſons 8</item>
+                     <item>Faith and experience 8</item>
+                     <item>vindication of Miniſtry 4</item>
+                     <item>againſt Humphreys</item>
+                     <item>anſwer to Mr. Fiſher 4</item>
+                     <item>Saints duty 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Henry Churches</hi> Miſſellanies 4
+<list>
+                     <item>Letters 12</item>
+                     <item>Treaſure 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Nath. Church</hi> pocket Companion 12</item>
+               <item>
+                  <hi>Caſaubon</hi> of Enthuſiaſme 8</item>
+               <item>
+                  <hi>Chomlyes</hi> defence of Bp. <hi>Hall</hi> 8</item>
+               <item>
+                  <hi>Chute</hi> of Baptiſme 8</item>
+               <item>
+                  <hi>Catholike</hi> Hiſtory 8</item>
+               <item>Dr. <hi>Chapell</hi> on the 103 pſalme 8.</item>
+               <pb n="16" facs="tcp:101054:12"/>
+               <item>
+                  <hi>methodus Concionandi</hi> 12</item>
+               <item>
+                  <hi>Craſhaws</hi> meditations 12</item>
+               <item>
+                  <hi>Character</hi> of a Chriſtian 12</item>
+               <item>
+                  <hi>Chetwinds</hi> ſtrait gate 12</item>
+               <item>
+                  <hi>Crofts</hi> terreſtriall paradiſe 12</item>
+               <item>
+                  <hi>Cokes</hi> Art of Logick 8</item>
+               <item>
+                  <hi>Conference</hi> between K Charles and the Marqueſſe of Worſter 4</item>
+               <item>M. <hi>Croftons</hi> Anſwer to John Rogers 4
+<list>
+                     <item>of zeale 8</item>
+                     <item>of Catechiſing 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chafie</hi> on Sabbath 4</item>
+               <item>
+                  <hi>Clements</hi> firſt epiſtle to the Corinthians 4</item>
+               <item>
+                  <hi>Counſell</hi> of Trent <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Cheynels</hi> Chillingworth <hi>noviſſima</hi> 4</item>
+               <item>
+                  <hi>Cartwright</hi> of <hi>Yorke</hi> on faith 8
+<list>
+                     <item>on Geneſis.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Crooks life</hi> 8 and a new Piece, <hi>fol</hi>
+                  <list>
+                     <item>guide to Bleſſedneſſe 12</item>
+                     <item>waking ſleeper 12</item>
+                     <item>death ſubdued 12</item>
+                     <item>diſcovery of the heart</item>
+                     <item>miniſterial husbandry</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cooke</hi> of infant Baptiſme 4</item>
+               <item>D. <hi>Cheynels</hi> learned Vindication of the Trinity 8
+<list>
+                     <item>Againſt Socinianiſme, with other Sermons 4</item>
+                  </list>
+               </item>
+               <item>* M. <hi>William Carter</hi> of Baptiſme 4</item>
+               <pb n="17" facs="tcp:101054:12"/>
+               <item>* M. <hi>Crandon</hi> againſt M. <hi>Baxters</hi> apho<g ref="char:EOLhyphen"/>riſmes 4</item>
+               <item>M. <hi>Capel</hi> of Temptations 8</item>
+               <item>M. <hi>Cartwright</hi> on the Rhemiſt Teſtament <hi>in fol.</hi>
+                  <list>
+                     <item>Chatechiſme 4</item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Coopers</hi> Works <hi>fol.</hi>
+               </item>
+               <item>D. <hi>Cudworth</hi> concerning the true notion of the Lords Supper 4</item>
+               <item>* M. <hi>Colvill,</hi> a Scotch miniſter on the Fulneſſe of Chriſt, Of Juſtification and Sanctification 4</item>
+            </list>
+            <pb n="18" facs="tcp:101054:13"/>
+            <list>
+               <head>D</head>
+               <item>* Dr <hi>Diodates</hi> Notes on the Bible, <hi>folio</hi>
+               </item>
+               <item>Mr <hi>Downhams</hi> Warfare <hi>folio</hi>
+                  <list>
+                     <item>Guide to Godlineſſe <hi>folio</hi>
+                     </item>
+                     <item>on the 25 Pſalme 4</item>
+                     <item>Abſtract on Commandements 8</item>
+                     <item>of Liberty 8</item>
+                     <item>on the Sacraments 8</item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Downham</hi> of Juſtification <hi>fol.</hi>
+                  <list>
+                     <item>Summe of Divinity 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Day</hi> on the Reſurrection 4</item>
+               <item>M. <hi>Day</hi> on Iſaiah <hi>fol.</hi>
+               </item>
+               <item>M. <hi>Dickson</hi> on all the Pſalms 8
+<list>
+                     <item>on Matthew 8</item>
+                     <item>on Hebrews 8</item>
+                     <item>on Epiſtles 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Davenport</hi> on Meſſiah 4</item>
+               <item>Monſ. <hi>Deſpagne</hi> on the Creed 8
+<list>
+                     <item>of eating the Bodie of Chriſt 8</item>
+                     <pb n="19" facs="tcp:101054:13"/>
+                     <item>on the Lords Prayer 8</item>
+                     <item>Popular Errors 8</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Daniel Dike</hi> on the Deceitfulneſſe of the heart 4
+<list>
+                     <item>of Repentance 4</item>
+                     <item>of Michael and the Dragon 4</item>
+                     <item>Evangelical Hiſtories 4</item>
+                     <item>School of Affliction 4</item>
+                     <item>on Philemon 4</item>
+                     <item>on the 124 Pſalm 8</item>
+                  </list>
+               </item>
+               <item>Mr <hi>Jeremiah Dike</hi> Select Sermons 8
+<list>
+                     <item>Of Conſcience, 8</item>
+                     <item>of Scandals 8</item>
+                     <item>of the Sacrament of the Lord</item>
+                     <item>Supper 8</item>
+                     <item>With an Appendix of the right receiving of Chriſt 8</item>
+                     <item>Select Sermons in 8</item>
+                     <item>one before the Parliament 4</item>
+                     <item>of Covetonſneſſe 4</item>
+                     <item>of <hi>Archippus</hi> 4</item>
+                     <item>The name of God a ſtrong tower 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Dingleys</hi> Glimpſe 8
+<list>
+                     <item>of Angels 8</item>
+                     <item>of the Eye 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Dod</hi> on Commandments 4
+<list>
+                     <item>on the Sacraments 4</item>
+                     <item>Houſhold-Government 8</item>
+                     <item>Paraphraſe on Proverbs 4</item>
+                     <pb n="20" facs="tcp:101054:14"/>
+                     <item>Sermons on Proverbs 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Down</hi> of Faith 4</item>
+               <item>Bp. <hi>Davenant de morte Chriſti fol.</hi>
+                  <list>
+                     <item>
+                        <hi>De pace</hi> 12</item>
+                     <item>
+                        <hi>Prelectiones fol.</hi>
+                     </item>
+                     <item>on Coloſſians <hi>fol-</hi>
+                     </item>
+                     <item>
+                        <hi>Determinationes fol.</hi>
+                     </item>
+                     <item>againſt Hoard 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dawſons</hi> 18 Sermons 4
+<list>
+                     <item>
+                        <hi>ſumma moralis</hi> 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Drake</hi> revived 8</item>
+               <item>
+                  <hi>Monſ. Dallies</hi> uſe of the Fathers 4
+<list>
+                     <item>Apology for the reformed Chur<g ref="char:EOLhyphen"/>ches 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dales Analyſis</hi> on the Epiſtles 8</item>
+               <item>
+                  <hi>Davenports</hi> Knowledge of Chriſt 4</item>
+               <item>
+                  <hi>Drexelius</hi> of Eternity 12
+<list>
+                     <item>hive of devotion 12</item>
+                     <item>Chriſtian zodiack 12</item>
+                     <item>Schoole of patience 12</item>
+                     <item>forerunner of Eternity 12</item>
+                     <item>right Intention 12</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Deniſons</hi> three-fold reſolution 12
+<list>
+                     <item>on Peter, 2 epiſt 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dent</hi> on Revelation 8
+<list>
+                     <item>pathway to heaven 12</item>
+                     <item>Sermon of repentance 8</item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Downham</hi> of prayer 4
+<list>
+                     <item>of ſying 4</item>
+                     <pb n="21" facs="tcp:101054:14"/>
+                     <item>on Covenant 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dubartus</hi> Divine Works poetry <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Diſcourſe</hi> of Uſury 12</item>
+               <item>
+                  <hi>Digby</hi> of the ſoules Immortality 4</item>
+               <item>
+                  <hi>Diſcourſe</hi> of Eternity 12</item>
+               <item>S. <hi>E. Deerings</hi> diſcourſe of proper Sacrifi<g ref="char:EOLhyphen"/>ces 4</item>
+               <item>
+                  <hi>Duport</hi> on Job <hi>Greek</hi> and <hi>Lat.</hi> 8
+<list>
+                     <item>on Proverbs 8 <hi>Greek</hi> and <hi>Lat.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Donus</hi> Sermons compl. <hi>fol.</hi>
+                  <list>
+                     <item>devotions 12 &amp; 24</item>
+                     <item>Sermon at Lady <hi>Davers</hi> funerall 12</item>
+                     <item>of ſelfe Homicide 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dugards</hi> Blinde eye 12</item>
+               <item>
+                  <hi>Dividing</hi> of the hoofe 4</item>
+               <item>
+                  <hi>Doctrines</hi> Tryall 12</item>
+               <item>
+                  <hi>Durrants</hi> Sipps of ſweetneſſe 8
+<list>
+                     <item>comfort and counſell 8</item>
+                     <item>love of Chriſt 8</item>
+                     <item>Salvation of Saints 8</item>
+                     <item>prayers for Marriners 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Davids</hi> diamond</item>
+               <item>
+                  <hi>Delamarſh</hi> on the Revelation 4</item>
+            </list>
+            <pb n="22" facs="tcp:101054:15"/>
+            <list>
+               <head>E</head>
+               <item>M. <hi>Elton</hi> on the 7, 8, 9 Chapters of the Romans <hi>fol.</hi>
+                  <list>
+                     <item>on the Coloſſians <hi>fol.</hi>
+                     </item>
+                     <item>on Commandments 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Edward's Gangrena</hi> 4
+<list>
+                     <item>Againſt Toleration 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Antipologia</hi> 4</item>
+               <item>
+                  <hi>Egertons</hi> comforts 12</item>
+               <item>
+                  <hi>Eſtwick</hi> againſt <hi>Biddle</hi> 4</item>
+               <item>
+                  <hi>Eyre</hi> of Juſtification 4</item>
+               <item>
+                  <hi>Ezekiels</hi> wheels 8</item>
+               <item>* <hi>Euſebius</hi> Eccleſiaſticall Hiſtorie <hi>fol.</hi>
+               </item>
+            </list>
+            <pb n="23" facs="tcp:101054:15"/>
+            <list>
+               <head>F</head>
+               <item>M. <hi>Fuller,</hi> Holy Land <hi>fol.</hi>
+                  <list>
+                     <item>Holy Warre, <hi>fol.</hi>
+                     </item>
+                     <item>Holy State <hi>fol.</hi>
+                     </item>
+                     <item>his Meditations in good and bad times 12</item>
+                     <item>* on Temptations 8</item>
+                     <item>* on Baptiſme 8</item>
+                     <item>reconciler 8</item>
+                     <item>on Ruth 8</item>
+                     <item>on Corinthians 4</item>
+                     <item>Eccleſiaſticall Hiſtory <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fiſher</hi> on Sacraments 12</item>
+               <item>
+                  <hi>Fonſeca's</hi> Poſtils <hi>fol.</hi>
+               </item>
+               <item>Ld. <hi>Faukland</hi> of Infalibility 4</item>
+               <item>
+                  <hi>Fatherby</hi> againſt Atheiſme <hi>fol.</hi>
+               </item>
+               <item>* M. <hi>Ford</hi> of <hi>Exeter</hi> on ſinging of pſalms 8</item>
+               <item>M. <hi>Fenner</hi> of Affections
+<list>
+                     <item>on Conſcience</item>
+                     <pb n="24" facs="tcp:101054:16"/>
+                     <item>on Impenitency</item>
+                     <item>Saints Alarme</item>
+                     <item>Chriſtian directory</item>
+                     <item>Divine Meſſage</item>
+                     <item>Practicall Divinity</item>
+                     <item>Chriſtians Sacrifice</item>
+                     <item>Riches of Grace</item>
+                     <item>Hidden Manna</item>
+                     <item>With a new piece, all in <hi>folio.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>* M. <hi>Firmin</hi> of Separation 4
+<list>
+                     <item>Caſe ſtated concerning Baptiſme of Infants 4</item>
+                  </list>
+               </item>
+               <item>* M. <hi>Ford</hi> of <hi>Reading,</hi> The great intereſt of Kingdoms 4
+<list>
+                     <item>* Two Latine Sermons, <hi>Ambitio ſacra</hi> 4</item>
+                     <item>* An Aſſiſe Sermon at Reading 4</item>
+                     <item>* A Treatiſe of the practical uſe of Infant Baptiſm 8 and catechiſing</item>
+                     <item>* The Spirit of Bondage and Adop<g ref="char:EOLhyphen"/>tion 8</item>
+                  </list>
+               </item>
+               <item>D. <hi>Featley</hi> Sermons <hi>fol.</hi>
+                  <list>
+                     <item>Handmaid to devotion 12</item>
+                     <item>Againſt Fiſher 4</item>
+                     <item>The Dipper Dipt 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Featly's</hi> caſe for Spectacles 4
+<list>
+                     <item>fountain of tears 12</item>
+                     <item>
+                        <hi>vertumnus Romanus</hi> 4</item>
+                     <item>ſeverall Sermons ſingle 4</item>
+                  </list>
+               </item>
+               <pb n="25" facs="tcp:101054:16"/>
+               <item>M. <hi>Forbes</hi> of Juſtification 4
+<list>
+                     <item>on Revelations 4</item>
+                     <item>his Irenicon 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Fulk</hi> Rhemiſt Teſtament <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Fullwords</hi> vind. of the Miniſtry 4</item>
+               <item>
+                  <hi>Fiſhers</hi> love token 12</item>
+               <item>
+                  <hi>Fletcher</hi> on the 1 Pſalme</item>
+               <item>
+                  <hi>Forbidden</hi> fruit 12</item>
+               <item>
+                  <hi>Fulword</hi> againſt Errors 8</item>
+               <item>Lady <hi>Fauklands</hi> life</item>
+            </list>
+            <pb n="26" facs="tcp:101054:17"/>
+            <list>
+               <head>G</head>
+               <item>M. <hi>Gataker</hi> his Sermons <hi>fol.</hi>
+                  <list>
+                     <item>Of Lots 4</item>
+                     <item>of Tranſubſtantiation 4</item>
+                     <item>
+                        <hi>De Juſtificatione</hi> 12</item>
+                     <item>Againſt <hi>Saltmarſh</hi> 4</item>
+                     <item>* A vindication of the Annotations, A<g ref="char:EOLhyphen"/>gainſt <hi>Lilly,</hi> two pieces 4</item>
+                     <item>
+                        <hi>Contra Phochenium</hi> 4</item>
+                     <item>
+                        <hi>Cinnus</hi> 4</item>
+                     <item>
+                        <hi>de nomine Jehovah</hi> 12</item>
+                     <item>
+                        <hi>de baptiſmatis Infantilis</hi> 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Greenhams</hi> Works <hi>fol.</hi>
+               </item>
+               <item>* M. <hi>Phil. Goodwin</hi> on the Sacrament 8
+<list>
+                     <item>the Sabbath enlivened 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Greenhill</hi> on Ezekiel in 3 Volumes 4</item>
+               <item>D. <hi>Gouge</hi> his Domeſticall Duties 4
+<list>
+                     <item>Lords Prayer <hi>quarto</hi>
+                     </item>
+                     <item>Spiritual Armor <hi>quarto</hi>
+                     </item>
+                     <item>CXVI Pſalme <hi>quarto</hi>
+                     </item>
+                     <item>on the Sabbath <hi>quarto</hi>
+                     </item>
+                     <pb n="27" facs="tcp:101054:17"/>
+                     <item>Three Arrowes 4</item>
+                     <item>* upon the Hebrews <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>M. <hi>Gilleſpie</hi> Aarons Rod 4
+<list>
+                     <item>Miſcellanies 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gurney</hi> on the 4 Commandment 12</item>
+               <item>Dr. <hi>Gores</hi> Sermons 4</item>
+               <item>
+                  <hi>Groſſes</hi> ſoule Inducements 4
+<list>
+                     <item>happineſſe of enjoying Chriſt 4</item>
+                     <item>fiery pillar 12</item>
+                     <item>buddings of grace 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gaules</hi> diſtractions 12
+<list>
+                     <item>Contemplations 12</item>
+                     <item>of witchcraft 12</item>
+                     <item>againſt Aſtrology 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gerhards</hi> Meditations 12
+<list>
+                     <item>Soules watch 12</item>
+                     <item>Garden of ſpirituall flowers 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Greys</hi> perfection of Chriſtian 12</item>
+               <item>
+                  <hi>Goves</hi> hony-combe 8</item>
+               <item>
+                  <hi>Gill</hi> on the Creed <hi>fol.</hi>
+               </item>
+               <item>Dr <hi>Gaudens</hi> Apology for miniſtry 4
+<list>
+                     <item>3 Sermons 4</item>
+                     <item>of Marriages 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Gregoryes</hi> Notes 4
+<list>
+                     <item>
+                        <hi>Poſthuma</hi> 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Goads</hi> Sermons 4</item>
+               <item>
+                  <hi>Grand</hi> prerogative of humane nature 8</item>
+               <item>
+                  <hi>Gees</hi> ſteps to aſſention 24</item>
+               <item>
+                  <hi>Grimſtons</hi> new years gift 24</item>
+               <item>
+                  <hi>Gays Sermons</hi> 8</item>
+               <pb n="28" facs="tcp:101054:18"/>
+               <item>Government of the Church of <hi>Scotland</hi> 4</item>
+               <item>M. <hi>Gee</hi> of Prayer 8</item>
+               <item>M. <hi>Tho. Goodwin,</hi> Child of light, 4
+<list>
+                     <item>Returne of Prayer 4</item>
+                     <item>Agravations of ſinne</item>
+                     <item>Growth of Grace 4</item>
+                     <item>Triumph of Faith 4</item>
+                     <item>Peace-maker 4</item>
+                  </list>
+               </item>
+               <item>M <hi>John Geere</hi> on Baptiſme 4
+<list>
+                     <item>of drinking Healths 4</item>
+                     <item>of the Red Horſe 4</item>
+                     <item>Character of an Engliſh Puritan 4</item>
+                     <item>* Might oercoming Right 4</item>
+                     <item>Judahs joy at the Oath 4</item>
+                     <item>M, <hi>Guild,</hi> Moſes unvailed 8</item>
+                     <item>on Revelation 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Greenward</hi> his Works 8</item>
+               <item>M. <hi>Gurnall</hi> on ſpiritual armour 4</item>
+               <item>M. <hi>Graile</hi> on the Covenant of Grace, a<g ref="char:EOLhyphen"/>gainſt M. <hi>Eyre</hi> 4</item>
+               <item>
+                  <hi>Godwins</hi> Roman Antiquities 4
+<list>
+                     <item>Jewiſh Antiquities 4</item>
+                     <item>Greek Atticks 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Garcut</hi> on Reſurection 12</item>
+            </list>
+            <pb n="29" facs="tcp:101054:18"/>
+            <list>
+               <head>H</head>
+               <item>M. <hi>Hudſon</hi> of the Viſible Church 4</item>
+               <item>
+                  <hi>M. Hilderſham</hi> on the 51 Pſalm <hi>fol.</hi>
+                  <list>
+                     <item>on the 4th of John <hi>fol.</hi>
+                     </item>
+                     <item>of Faſting 12</item>
+                  </list>
+               </item>
+               <item>* <hi>M. Hall</hi> his Pulpit guarded 4
+<list>
+                     <item>* of Holineſſe in God 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Hookers</hi> Soul preparation 4
+<list>
+                     <item>Souls exhaltation 4</item>
+                     <item>Unbeleevers preparing 4</item>
+                     <item>Souls Humiliation 4</item>
+                     <item>Vocation 4</item>
+                     <item>Souls Implantation 4</item>
+                     <item>Of Selfe denyall 4</item>
+                     <item>Duty &amp; dignity of Saints 4</item>
+                     <item>Farewel Sermon 4</item>
+                     <item>On the Lords Prayer 4</item>
+                     <item>Church Diſcipline 4</item>
+                     <item>Four Treatiſes 12</item>
+                     <item>Souls poſſeſſion 12</item>
+                  </list>
+               </item>
+               <pb n="30" facs="tcp:101054:19"/>
+               <item>
+                  <hi>Hookers</hi> Doubting Chriſtian 12
+<list>
+                     <item>Pattern to Perfection 12</item>
+                     <item>Saints Guide 12</item>
+                  </list>
+               </item>
+               <item>D. <hi>Hackwel,</hi> Apologie for the Power and Providence of God <hi>folio.</hi>
+               </item>
+               <item>M. <hi>Hughes,</hi> Gain and Pain of Affliction 4
+<list>
+                     <item>Funeral Sermon, And a Parliament Sermon 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Heinſius in Novum Teſtamentum</hi> 4</item>
+               <item>
+                  <hi>Hornes</hi> Three Sermons 4
+<list>
+                     <item>on the 9 Pſalm 4</item>
+                     <item>Woman of Faith 4</item>
+                     <item>Of Infant Baptiſm againſt <hi>Tombs</hi> and <hi>Kendal</hi> 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Homes</hi> of Chriſts perſonal Reign <hi>folio.</hi>
+                  <list>
+                     <item>Againſt <hi>Tombs</hi> 4</item>
+                     <item>againſt Aſtrology 8</item>
+                     <item>Goſpel-Muſick, viz. Singing Pſalms vindicated 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hookers</hi> Eccleſiaſt. Policy <hi>folio</hi>
+                  <list>
+                     <item>Sixth and eighth Part 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hamptons</hi> Sermons 4</item>
+               <item>
+                  <hi>Harmony</hi> of Confeſſions 4</item>
+               <item>
+                  <hi>Hills</hi> Path-way to Piety 12
+<list>
+                     <item>Sermons 4</item>
+                  </list>
+               </item>
+               <item>Lord <hi>Hattons</hi> Pſalms 12</item>
+               <item>
+                  <hi>Herberts</hi> Divine Poems 12</item>
+               <item>
+                  <hi>Haine</hi> againſt the Millenaries 4</item>
+               <pb n="31" facs="tcp:101054:19"/>
+               <item>
+                  <hi>Hardy's</hi> Sermons in one Volum 4
+<list>
+                     <item>on the firſt Epiſtle of <hi>John</hi> 4</item>
+                  </list>
+               </item>
+               <item>* Mr. <hi>Hutcheſon</hi> on the twelve ſmal Pro<g ref="char:EOLhyphen"/>phets, and on <hi>John</hi> Evang. <hi>folio</hi>
+               </item>
+               <item>* Mr. <hi>Herle</hi> againſt Independency 4
+<list>
+                     <item>* Of Policy and Prudence 12</item>
+                     <item>Of Wiſdom 12</item>
+                     <item>Contemplations 8</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Hieroms</hi> Works, two Volumes <hi>fol.</hi>
+               </item>
+               <item>* D. <hi>Harris</hi> on Beatitudes <hi>folio</hi>
+                  <list>
+                     <item>Covenant of Grace <hi>folio</hi>
+                     </item>
+                     <item>Threefold ſtate of man <hi>folio</hi>
+                     </item>
+                     <item>A Supplement <hi>folio</hi>
+                     </item>
+                     <item>Several Sermons <hi>folio</hi>
+                     </item>
+                     <item>Peters Enlargement 12</item>
+                  </list>
+               </item>
+               <item>D. <hi>Hayward,</hi> Strong Helper 8
+<list>
+                     <item>Sanctuary of a troubled ſoul 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Davids</hi> Tears 12</item>
+               <item>Bp <hi>Hall,</hi> Contemplations on the Old Teſtament <hi>fol.</hi>
+                  <list>
+                     <item>Contemplations on the New <hi>fol.</hi>
+                     </item>
+                     <item>Paraphraſe on the Bible <hi>fol.</hi>
+                     </item>
+                     <item>againſt <hi>Smectymnus</hi> 4</item>
+                     <item>againſt Profaneneſſe 8 &amp;c.</item>
+                     <item>of Moderation <hi>Octavo.</hi>
+                     </item>
+                     <item>old Religion <hi>Octavo.</hi>
+                     </item>
+                     <item>Sermons <hi>Octavo.</hi>
+                     </item>
+                     <pb n="32" facs="tcp:101054:20"/>
+                     <item>Bp <hi>Hall,</hi> Balm of Gilead <hi>12<hi rend="sup">o</hi>
+                        </hi>
+                     </item>
+                     <item>Occaſional Meditations, Latine and Engliſh. 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Meditations and Vows. 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Satans Fiery Darts 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Holy Raptures 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Holy Soliloquies 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Of Contentment 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Caſes of Conſcience 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Againſt Millenaries 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Holy Order 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Devout Soul 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Peace-maker 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Select Thoughts 12<hi rend="sup">o</hi>
+                     </item>
+                     <item>Myſtery of Godlineſſe 12<hi rend="sup">o</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Harvey</hi> on the Sabbath 12
+<list>
+                     <item>Divine Poems 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Harfleets</hi> Deſplay of Flattery 12</item>
+               <item>
+                  <hi>Heywood</hi> of Angels <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Howſons</hi> Sermons 4</item>
+               <item>
+                  <hi>Holland</hi> on Revelation 4
+<list>
+                     <item>Looking-glaſs 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Dom. Herbert de Veritate</hi> 4
+<list>
+                     <item>
+                        <hi>De Cauſis Errorum</hi> 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Huis</hi> on Daniel 4</item>
+               <item>* D. <hi>Holdſworths</hi> Sermons 4</item>
+               <item>* <hi>Hows</hi> Pagan Preacher ſilenced in anſwer to <hi>J. Goodwin.</hi> 4</item>
+               <pb n="33" facs="tcp:101054:20"/>
+               <item>
+                  <hi>Hauſteeds</hi> ten Sermons 4</item>
+               <item>
+                  <hi>Hodges</hi> apology for the uſe of the Lords Prayer.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>Dr. <hi>Jermin</hi> on <hi>Proverbs folio.</hi>
+                  <list>
+                     <item>On <hi>Eccleſiaſtes folio.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>* Mr. <hi>Jordain,</hi> Life 4</item>
+               <item>Mr. <hi>Arthur Jackson</hi> on Pentateuch 4
+<list>
+                     <item>On the Hiſtorical part 4</item>
+                     <item>* Five Poetical Books</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Jeniſon</hi> apparelling of Chriſt 8
+<list>
+                     <item>Compunction for ſin 8</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Jacksons</hi> Works <hi>in folio &amp; quarto.</hi>
+               </item>
+               <item>* <hi>Jones</hi> on <hi>Hebrews fol.</hi>
+               </item>
+               <item>K. <hi>James</hi> Pſalmes 8</item>
+               <item>
+                  <hi>Johnſon</hi> on the Parables 4</item>
+               <item>
+                  <hi>Judicial</hi> Aſtrology condemned 8</item>
+               <item>
+                  <hi>Inſtitutiones piae</hi> 12</item>
+               <item>* Mr. <hi>Jenkyn</hi> on <hi>Jude fol.</hi>
+                  <list>
+                     <item>Four Sermons 4</item>
+                     <item>His Anſwer to <hi>Joha Goodwin</hi> 4</item>
+                     <pb n="34" facs="tcp:101054:21"/>
+                     <item>* Funeral Sermon for D. <hi>Gouge</hi> 4</item>
+                     <item>His Sermon before the Parlia<g ref="char:EOLhyphen"/>ment 1656.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Iſacksons</hi> Chronology <hi>fol.</hi>
+                  <list>
+                     <item>Spiritual Duel 12</item>
+                     <item>Of pacification 12</item>
+                     <item>Divine Contemplations 12</item>
+                     <item>Subſtance of Religion 12</item>
+                  </list>
+               </item>
+               <item>Imitation of Chriſt 12</item>
+               <item>* Journal of a Chriſtian</item>
+               <item>* <hi>Jeans</hi> of the Sacrament
+<list>
+                     <item>Of Appearance of Evil</item>
+                     <item>Several pieces in <hi>quarto.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb n="35" facs="tcp:101054:21"/>
+            <list>
+               <head>K</head>
+               <item>Bp <hi>King</hi> on Jonah 4</item>
+               <item>Dr. <hi>King</hi> on the Lords prayer 4</item>
+               <item>Mr. <hi>Knights</hi> Concordance, <hi>folio</hi>
+               </item>
+               <item>Dr. <hi>Kendal</hi> on Univerſal Redemption, a<g ref="char:EOLhyphen"/>gainſt Mr. <hi>John Goodwin; folio.</hi>
+                  <list>
+                     <item>
+                        <hi>Sancti Sanciti,</hi> or the perſeverance of the Saints <hi>folio.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>D. <hi>Kellet.</hi> Miſcellanies <hi>folio</hi>
+                  <list>
+                     <item>Sermons 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Knewſtub</hi> 4</item>
+               <item>Mr. <hi>Kings</hi> Marriage of the Lamb 12</item>
+               <item>
+                  <hi>Key</hi> of David 12</item>
+               <item>
+                  <hi>Kings</hi> way to Syon 4</item>
+               <item>
+                  <hi>Knox</hi> Hiſtory of the Church of <hi>Scot<g ref="char:EOLhyphen"/>land fol.</hi>
+               </item>
+               <item>King <hi>Charles</hi> his Works 8</item>
+            </list>
+            <pb n="36" facs="tcp:101054:22"/>
+            <list>
+               <head>L</head>
+               <item>Bp. <hi>Lake,</hi> Sermons. <hi>fol.</hi>
+                  <list>
+                     <item>Sermons. <hi>quarto.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Latimer,</hi> Sermons. <hi>quarto.</hi>
+               </item>
+               <item>Col. <hi>Leigh</hi> his <hi>Critica Sacra,</hi> on the Old and New Teſtament <hi>fol.</hi>
+                  <list>
+                     <item>A Comment on the New Teſta<g ref="char:EOLhyphen"/>ment <hi>fol.</hi>
+                     </item>
+                     <item>on the Promiſes 12</item>
+                     <item>Saints Encouragements 12</item>
+                     <item>Body of Divinty, <hi>fol.</hi>
+                     </item>
+                     <item>* On the Poetical part</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Love</hi> of Different Degrees of Grace 4
+<list>
+                     <item>Zealous Chriſtian 4</item>
+                     <item>Heavens Glory, Hels Terror 4</item>
+                     <item>Effectual Calling and Election 4</item>
+                     <item>Combat betweene Fleſh and Spirit, and Chriſtian Dire<g ref="char:EOLhyphen"/>ry 4</item>
+                     <pb n="37" facs="tcp:101054:22"/>
+                     <item>Mortification 8</item>
+                     <item>Natural mans caſe 8</item>
+                     <item>Pardon of ſin 4</item>
+                     <item>A Chriſtians duty 8</item>
+                     <item>* Dejected ſouls cure 12</item>
+                     <item>Catechiſme</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Lockyer,</hi> Chriſts Communion 12
+<list>
+                     <item>Diſcovery of ſincerity 8</item>
+                     <item>Englands Wounds 4</item>
+                     <item>Balm for bleeding England, and Ireland 8</item>
+                  </list>
+               </item>
+               <item>D. <hi>Lightfoot's</hi> Harmony on the Old Te<g ref="char:EOLhyphen"/>ſtament 4
+<list>
+                     <item>Gleanings on Exodus 4</item>
+                     <item>On the New Teſtament, <hi>fol.</hi>
+                     </item>
+                     <item>On the Acts 4</item>
+                     <item>Temple 4</item>
+                     <item>Temple Service 4</item>
+                     <item>Some Sermons 4</item>
+                     <item>Harmony on N. Teſtament <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>D. <hi>Luther's</hi> Menſalia <hi>fol.</hi>
+                  <list>
+                     <item>on Galatians 4</item>
+                     <item>on the Pſalm of Degrees 4</item>
+                     <item>Chriſtian Liberty 8</item>
+                     <item>Choice Sermons 8</item>
+                     <item>Prayers 12</item>
+                     <item>His Life 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Lifords</hi> Catechiſme large 8
+<list>
+                     <item>Of the Miniſtry 4</item>
+                     <pb n="38" facs="tcp:101054:23"/>
+                     <item>Legacy 12</item>
+                     <item>againſt Errors 4</item>
+                  </list>
+               </item>
+               <item>Sir <hi>Humphrey Linde, Via tuta</hi> 12
+<list>
+                     <item>
+                        <hi>Via devia</hi> 12</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Laurence</hi> of Angels 4
+<list>
+                     <item>of Ordinance 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Luptons</hi> Meditations 24
+<list>
+                     <item>Life of Chriſt 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lynakers</hi> Conſolations 12</item>
+               <item>
+                  <hi>Lawſon</hi> on the Sabbath 12
+<list>
+                     <item>Gleanings 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Laurence</hi> of Faith 4 in the preſſe.</item>
+               <item>Mr. <hi>Ley</hi> on the Sabbath 4
+<list>
+                     <item>againſt <hi>Saltmarſh</hi> 4</item>
+                     <item>on Liturgy</item>
+                     <item>of the Oath and Cannons</item>
+                     <item>of Mortality</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="39" facs="tcp:101054:23"/>
+            <list>
+               <head>M</head>
+               <item>
+                  <hi>Mortons</hi> threefold ſtate of man 12
+<list>
+                     <item>Touchſtone of Converſion 12</item>
+                  </list>
+               </item>
+               <item>Bp <hi>Morton</hi> of the Maſſe <hi>fol.</hi>
+                  <list>
+                     <item>The Grand Impoſture 4</item>
+                     <item>Of Providence 8</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Mayer</hi> on the Pentateuch <hi>folio.</hi>
+                  <list>
+                     <item>On the Hiſtorical part <hi>folio.</hi>
+                     </item>
+                     <item>On the Poetical part <hi>folio.</hi>
+                     </item>
+                     <item>On the Great Prophets <hi>folio.</hi>
+                     </item>
+                     <item>On the ſmall Prophets <hi>folio.</hi>
+                     </item>
+                     <item>On the New Teſtament <hi>folio.</hi>
+                     </item>
+                     <item>on James 4</item>
+                     <item>On the hard places 4</item>
+                     <item>On the Catechiſme 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Mayers</hi> Antidote 4</item>
+               <item>M. <hi>Moſſums</hi> Sions Proſpect 4</item>
+               <item>M. <hi>Manton</hi> on <hi>James</hi> 4
+<list>
+                     <item>on <hi>Jude</hi> 4 in preſſe</item>
+                  </list>
+               </item>
+               <pb n="40" facs="tcp:101054:24"/>
+               <item>M. <hi>Mede</hi> on Revelation 4
+<list>
+                     <item>Apoſtacie 4</item>
+                     <item>on <hi>Peter</hi> 4</item>
+                     <item>
+                        <hi>Diatriba,</hi> four Volums, with other ſmall pieces. Appendix on A<g ref="char:EOLhyphen"/>pocalipſe, 4 <hi>Triga</hi> 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Mores</hi> Cabala 8
+<list>
+                     <item>againſt Atheiſm 8</item>
+                  </list>
+               </item>
+               <item>Marrow of modern Divinity 8</item>
+               <item>Metropolitan Feaſt vindicated 4</item>
+               <item>
+                  <hi>Maſon De Miniſterio, fol.</hi>
+                  <list>
+                     <item>Of Conſcience 4</item>
+                     <item>Of Faſting 4</item>
+                     <item>of hearing and doing 120</item>
+                     <item>of Equivocation 120</item>
+                     <item>of Lying 120</item>
+                     <item>of Contentment 120</item>
+                     <item>Cure of cares 12 120</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Mores</hi> Yearning 8</item>
+               <item>
+                  <hi>Maxeys</hi> Sermons 8</item>
+               <item>
+                  <hi>Mockts</hi> Duty and Dignity 4</item>
+               <item>Dr <hi>Mayn</hi> concerning falſe Prophets 4
+<list>
+                     <item>of Unity 4</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Morguns</hi> Chriſtian Diurnal 12</item>
+               <item>
+                  <hi>Mountagu. Vita Chriſti, fol</hi>
+                  <list>
+                     <item>
+                        <hi>De Originibus Eccleſiaſt. fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Maton</hi> Iſraels Redemption 8</item>
+               <item>
+                  <hi>Id</hi> Redempt on Redeemed. 4</item>
+               <item>
+                  <hi>Milbourns</hi> three Treatiſes</item>
+               <pb n="41" facs="tcp:101054:24"/>
+               <item>
+                  <hi>Merchant</hi> Manual 12</item>
+               <item>Meditations and Prayers 12</item>
+               <item>Meditations and Contemplations 12</item>
+               <item>Meane liberal maintenance for Mini<g ref="char:EOLhyphen"/>ſters 4</item>
+               <item>Mirror of Martyrs 12</item>
+               <item>
+                  <hi>Miniſtry</hi> Vindicated, called, <hi>Jus Divi<g ref="char:EOLhyphen"/>num Eccleſ. Evaugel.</hi> An elaborate Piece, by Mr. <hi>Whitaker</hi> and Mr <hi>Ca<g ref="char:EOLhyphen"/>lamy,</hi> and divers other Orthodox Miniſters of the Province of <hi>London</hi> with <hi>Smectymnuus</hi> both parts an<g ref="char:EOLhyphen"/>nexed to it, by five learned Miniſters now living 4</item>
+               <item>M. <hi>Marbury</hi> on Obadiah, 4
+<list>
+                     <item>On Habakkuk 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Monlins</hi> Buckler of Faith 4
+<list>
+                     <item>Antibarian 12</item>
+                     <item>Love of God 12</item>
+                     <item>Chriſtian Combat 12</item>
+                     <item>Encounter 24</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="42" facs="tcp:101054:25"/>
+            <list>
+               <head>N</head>
+               <item>M. <hi>Newmans</hi> Concordance <hi>folio</hi>
+               </item>
+               <item>Mr. <hi>Norton</hi> of New England his <hi>Apolo<g ref="char:EOLhyphen"/>gia</hi> 8
+<list>
+                     <item>His Diſcuſſion of the great Point in Divinity, The ſufferings of Chriſt, and the queſtions about Active and Paſſive Righteouſ<g ref="char:EOLhyphen"/>nefs debated 8</item>
+                     <item>His Catechiſm 8</item>
+                     <item>* His Orthodox Evangeliſt: a confutation of Errors 4</item>
+                     <item>
+                        <hi>Contra Apolonium</hi> 8</item>
+                     <item>Narrative of Church courſes in <hi>N. Eng<g ref="char:EOLhyphen"/>land</hi> 4</item>
+                     <item>None but Chriſt 12</item>
+                  </list>
+               </item>
+               <item>Naſhes fourfold way to a happy life 4</item>
+               <item>
+                  <hi>Negus</hi> of Faith 4</item>
+               <item>
+                  <hi>Napier</hi> on the Revelation 4</item>
+               <item>
+                  <hi>Nevils</hi> Converſion 4</item>
+            </list>
+            <pb n="43" facs="tcp:101054:25"/>
+            <list>
+               <head>O</head>
+               <item>* Dr <hi>Owen</hi> againſt Univerſal Redempti<g ref="char:EOLhyphen"/>on, <hi>quarto</hi>
+                  <list>
+                     <item>againſt Arminianiſme 4</item>
+                     <item>Paſtors Duty 4</item>
+                     <item>Perſeverance of Saints, <hi>folio</hi>
+                     </item>
+                     <item>
+                        <hi>Eſcol</hi> 12</item>
+                     <item>Of the Death of Chriſt 4</item>
+                     <item>Sermons 4</item>
+                     <item>
+                        <hi>De Juſtitia Divina</hi> 8</item>
+                     <item>againſt <hi>Biddle</hi>
+                     </item>
+                     <item>of Mortification</item>
+                     <item>of Schiſm</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Oates</hi> on <hi>Jude fol.</hi>
+               </item>
+               <item>Opinion of Divines concerning Religi<g ref="char:EOLhyphen"/>on 4</item>
+               <item>Office of Chriſtian parents 4</item>
+               <item>Obſervations on the Hiſtory of <hi>Nabal</hi> and <hi>Abigail</hi> 12</item>
+               <item>Original of the ſoul 12</item>
+               <item>Ornament of Women 12</item>
+            </list>
+            <pb n="44" facs="tcp:101054:26"/>
+            <list>
+               <head>P</head>
+               <item>
+                  <hi>Philipps</hi> of Hell 12</item>
+               <item>
+                  <hi>Popes</hi> deadly wound 12</item>
+               <item>
+                  <hi>Prices</hi> Souls Porter 12</item>
+               <item>
+                  <hi>Pelham</hi> on John 12</item>
+               <item>
+                  <hi>Pembles</hi> works <hi>fol.</hi>
+                  <list>
+                     <item>on John 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Parker</hi> of the Croſs <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Perkins</hi> Works in three Volumes, <hi>fol.</hi>
+                  <list>
+                     <item>Caſes of Conſcience 4</item>
+                     <item>Reformed Catholick 8</item>
+                     <item>ſix Treatiſes 12</item>
+                     <item>Penſive mans practiſe 12</item>
+                     <item>Poor mans Reſt 12</item>
+                     <item>Poſie of godly prayers 12</item>
+                     <item>Paſtors plea 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pagets</hi> Hereſiography 4
+<list>
+                     <item>of Church Government 4</item>
+                     <item>Hiſtory of the Bible 12</item>
+                  </list>
+               </item>
+               <item>Patern of mans imperfections 12</item>
+               <item>Preachers plea 12</item>
+               <item>Plea for old age 8</item>
+               <pb n="45" facs="tcp:101054:26"/>
+               <item>
+                  <hi>Pembertons</hi> Sermons 8</item>
+               <item>
+                  <hi>Powels</hi> Summons for ſwearers 8
+<list>
+                     <item>on promiſes 8</item>
+                     <item>Experiences 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Peitre</hi> againſt <hi>Maton</hi> concerning the Mil<g ref="char:EOLhyphen"/>lenaries 4</item>
+               <item>
+                  <hi>Petto</hi>'s Voice of the Spirit 8j</item>
+               <item>Proceedings of the Aſſembly at <hi>Perth, Anno</hi> 1548 4</item>
+               <item>
+                  <hi>Photii Epistolae. Gr. &amp; Lat. fol.</hi>
+               </item>
+               <item>Mr. <hi>Pool</hi> of the Deity of the H. Ghoſt 12</item>
+               <item>
+                  <hi>Preſbytery</hi> vindicated by the Miniſters of the Province of <hi>London</hi> 4</item>
+               <item>D <hi>Preſton</hi> on the Covenant <hi>quarto</hi>
+                  <list>
+                     <item>Faith and Love <hi>quarto</hi>
+                     </item>
+                     <item>Saints Qualification <hi>quarto</hi>
+                     </item>
+                     <item>Golden Scepter <hi>quarto</hi>
+                     </item>
+                     <item>Attributes of God <hi>quarto</hi>
+                     </item>
+                     <item>Mortification <hi>quarto</hi>
+                     </item>
+                     <item>Lively Life <hi>quarto</hi>
+                     </item>
+                     <item>Four godly Treatiſes <hi>quarto</hi>
+                     </item>
+                     <item>Court Sermons <hi>quarto</hi>
+                     </item>
+                     <item>Of Prayer <hi>quarto</hi>
+                     </item>
+                     <item>Saints infirmities <hi>quarto</hi>
+                     </item>
+                     <item>Divine Love <hi>quarto</hi>
+                     </item>
+                     <item>Remains <hi>quarto</hi>
+                     </item>
+                     <item>Chriſtian Freedom <hi>quarto</hi>
+                     </item>
+                     <item>Fulneſs of Chriſt <hi>quarto</hi>
+                     </item>
+                     <pb n="46" facs="tcp:101054:27"/>
+                     <item>Mount Ebal 4</item>
+                     <item>Theſes 4</item>
+                     <item>on the Sacrament 12</item>
+                     <item>Dr. <hi>Preſtons</hi> chief Works epitomized by M. <hi>Jemmat</hi> 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Pinſhion</hi> on the Sabbath 4</item>
+               <item>
+                  <hi>D. Prideaux</hi> his Lectures <hi>folio</hi>
+                  <list>
+                     <item>
+                        <hi>Faſciculus Controverſiarum</hi>
+                     </item>
+                     <item>Of Prayer 12</item>
+                     <item>Sermons 4</item>
+                     <item>on the Sabbath 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pooley</hi> Vindication of Ordinances 4
+<list>
+                     <item>Expoſition of pouring out the fourth Vial 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Prinne,</hi> The perpetuity of a Regene rate man, <hi>quarto.</hi>
+                  <list>
+                     <item>againſt Healths <hi>quarto</hi>
+                     </item>
+                     <item>againſt Love-locks <hi>quarto</hi>
+                     </item>
+                     <item>againſt Stage-playes <hi>quarto</hi>
+                     </item>
+                     <item>on the beginning of the Sabbath <hi>quarto</hi>
+                     </item>
+                     <item>Goſpel plea for Tythes <hi>quarto</hi>
+                     </item>
+                     <item>on Sacrament <hi>quarto</hi>
+                     </item>
+                     <item>of Magiſtracy <hi>quarto</hi>
+                     </item>
+                     <item>Diſcovery of new lights <hi>quarto</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pareus</hi> on Revelation <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Priſoners</hi> Prayers 12</item>
+               <pb n="47" facs="tcp:101054:27"/>
+               <item>
+                  <hi>Parr</hi> on <hi>Romans fol.</hi>
+                  <list>
+                     <item>Abba Father 12</item>
+                     <item>Grounds 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pinks</hi> Trial 12</item>
+               <item>D. <hi>Playfers</hi> Sermons 8
+<list>
+                     <item>Practiſe of Quietneſſe 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Palmers</hi> Sectaries unmask'd and confu<g ref="char:EOLhyphen"/>ted 4
+<list>
+                     <item>Defence of Chriſtmaſſe 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pierſon</hi> on the Pſalms 4
+<list>
+                     <item>Cure of cares 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Potters</hi> Vindication of 5 John 1.20. a<g ref="char:EOLhyphen"/>gainſt Eaton 4</item>
+               <item>
+                  <hi>Peters</hi> Complaint, and <hi>Magdaleus</hi> Tears 12</item>
+               <item>
+                  <hi>Potters</hi> 666. 4
+<list>
+                     <item>Theſes 12</item>
+                     <item>Want of Charity 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Palmers</hi> Memorials of godlineſſe 8
+<list>
+                     <item>Chriſtian freedom 12</item>
+                     <item>againſt <hi>Humphreyes</hi> 8</item>
+                     <item>Tempeſtuous ſoul calmed 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pincheon</hi> of Univerſal Redemption 8
+<list>
+                     <item>Jewiſh manner of Worſhip 4</item>
+                     <item>on the Sufferings of Chriſt 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Primroſe</hi> on Sabbath 4
+<list>
+                     <item>on Sacrament 12</item>
+                  </list>
+               </item>
+               <item>Paraphraſe on Job 12</item>
+               <pb n="48" facs="tcp:101054:28"/>
+               <item>
+                  <hi>Practiſe</hi> of Piety 12
+<list>
+                     <item>of Chriſtianity 12</item>
+                     <item>of the Faithful 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Pecks</hi> Dangers of little ſins 12</item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>
+                  <hi>Quarles</hi> Judgement and Mercy 12
+<list>
+                     <item>Emblems 8</item>
+                     <item>Boanarges</item>
+                     <item>Poems 8</item>
+                     <item>Fancies 12</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="49" facs="tcp:101054:28"/>
+            <list>
+               <head>R</head>
+               <item>Mr. <hi>Rutherford</hi> Triumph of Faith 4
+<list>
+                     <item>Covenant of Grace 4</item>
+                     <item>on Toleration 4</item>
+                     <item>Chriſt dying 4</item>
+                     <item>Survey of Familiſm, &amp;c. 4</item>
+                     <item>Several Volumes about Church-Government 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Roberts</hi> Key of the Bible 8
+<list>
+                     <item>on Sacrament 8</item>
+                     <item>Believers evidences 8</item>
+                     <item>Broken heart 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Rouſes</hi> Catholick charity 8
+<list>
+                     <item>
+                        <hi>Mella Patrum</hi> 8</item>
+                     <item>Muſical Marriage 12</item>
+                     <item>Greek Antiquities 4</item>
+                     <item>Art of Happineſs 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Robourough</hi> on Juſtification 4</item>
+               <item>
+                  <hi>Ramſdens</hi> Gleanings 4</item>
+               <item>
+                  <hi>Religio Medici</hi> 8</item>
+               <item>
+                  <hi>Roſe</hi> of Sharon 8</item>
+               <pb n="50" facs="tcp:101054:29"/>
+               <item>
+                  <hi>Randal</hi> on Romans, and Communion with God, <hi>in quarto.</hi>
+                  <list>
+                     <item>2 on the Sacrament 4</item>
+                     <item>3 on the Church 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Readings</hi> guide 4
+<list>
+                     <item>Of Baptiſme 4</item>
+                     <item>
+                        <hi>Davids</hi> Soliloquies 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Reeves</hi> Divinity 4
+<list>
+                     <item>Way to Chriſtian Unity 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Robotham</hi> on Canticles 4
+<list>
+                     <item>Preciouſneſſe of Chriſt 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Richardſons</hi> divine conſolation 12</item>
+               <item>
+                  <hi>Rogers</hi> on Judges <hi>fol.</hi>
+                  <list>
+                     <item>on <hi>Naaman, fol.</hi>
+                     </item>
+                     <item>Matrimonial honor 4</item>
+                     <item>
+                        <hi>Samuels</hi> Encounter 12</item>
+                     <item>Proteſtant Church exiſtent 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Reformatio Legum Eccleſiaſt.</hi> 4</item>
+               <item>
+                  <hi>Jo. Rogers</hi> of Church Diſcipline 4</item>
+               <item>D. <hi>Reynolds</hi> three Treatiſes <hi>quarto</hi>
+                  <list>
+                     <item>on 110 Pſalm <hi>quarto</hi>
+                     </item>
+                     <item>on Sacrament <hi>quarto</hi>
+                     </item>
+                     <item>on Paſſions <hi>quarto</hi>
+                     </item>
+                     <item>on Hoſea <hi>quarto</hi>
+                     </item>
+                     <item>of Self-denyal <hi>quarto</hi>
+                     </item>
+                     <item>Shields of the earth <hi>quarto</hi>
+                     </item>
+                     <item>Peace of the Church <hi>quarto</hi>
+                     </item>
+                     <item>
+                        <hi>Animalis Homo quarto</hi>
+                     </item>
+                     <item>True Graine 4</item>
+                  </list>
+               </item>
+               <pb n="51" facs="tcp:101054:29"/>
+               <item>Mr. <hi>Rogers</hi> on <hi>Peter, fol.</hi>
+                  <list>
+                     <item>on Faith 12</item>
+                     <item>On Love 12</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Rogers</hi> his ſeven Treatiſes 4
+<list>
+                     <item>on 39 Articles 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Rogers</hi> practical Catechiſm 4
+<list>
+                     <item>on Sacrament 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Tim. Rogers</hi> Righteous mans evidence for heaven 12
+<list>
+                     <item>Boſom friend 12</item>
+                     <item>News from heaven 12</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Rogers</hi> on the Parables <hi>quarto</hi>
+                  <list>
+                     <item>Loſt Son <hi>quarto</hi>
+                     </item>
+                     <item>Loſt Sheep <hi>quarto</hi>
+                     </item>
+                     <item>Loſt Groat <hi>quarto</hi>
+                     </item>
+                     <item>Penitent Citizen <hi>quarto</hi>
+                     </item>
+                     <item>Vineyard of Paleſtina <hi>quarto</hi>
+                     </item>
+                     <item>Good Samaritan <hi>quarto</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Bp <hi>Richardſons</hi> Annotations: from Ge<g ref="char:EOLhyphen"/>neſis to Ezekiel. <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Reinold</hi> of Epiſcopacy 4</item>
+               <item>Dr. <hi>Reynold</hi> on Haggai 4
+<list>
+                     <item>On portraiture 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Roſs</hi> View of Religions 8</item>
+               <item>M. <hi>Ralph Robinſon</hi> Chriſt All in All, in 37
+<list>
+                     <item>Alluſions to Chriſt</item>
+                     <item>Spiritual Armour</item>
+                     <item>Two Sermons 4</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="52" facs="tcp:101054:30"/>
+            <list>
+               <head>S</head>
+               <item>Mr. <hi>Symſon</hi> of the Church <hi>fol.</hi>
+               </item>
+               <item>Bp <hi>Spotſwoods</hi> Hiſtory of the Church of <hi>Scotland, fol.</hi>
+               </item>
+               <item>
+                  <hi>Southwels</hi> Works 12</item>
+               <item>
+                  <hi>Swifts</hi> ruine and repair of Kingdoms 8</item>
+               <item>
+                  <hi>Sambrooks</hi> three Sermons 12</item>
+               <item>
+                  <hi>Symſoni Cronolog. fol.</hi>
+               </item>
+               <item>
+                  <hi>Spalato de Republica Eccleſiaſt. fol.</hi>
+               </item>
+               <item>Mr. <hi>Shutes</hi> Sermons on <hi>Hagar, fol.</hi>
+                  <list>
+                     <item>on Exodus 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Scudder</hi> Daily walk 12
+<list>
+                     <item>Lords Prayer 12</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Sympſon's</hi> Dictionary, <hi>fol.</hi>
+                  <list>
+                     <item>on <hi>Peter</hi> 4</item>
+                     <item>on Juſtification 8</item>
+                     <item>on Pſalmes 4</item>
+                  </list>
+               </item>
+               <item>Mr. <hi>Sheffield</hi> on Conſcience 8
+<list>
+                     <item>Riſing of the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſſe 8</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Sibbs,</hi> Cordials <hi>fol.</hi>
+                  <list>
+                     <item>on 2 Cor. Chap. 1. <hi>fol.</hi>
+                     </item>
+                     <item>Returning Backſlider <hi>quarto</hi>
+                     </item>
+                     <item>Beams of Light <hi>quarto</hi>
+                     </item>
+                     <item>Light from heaven <hi>quarto</hi>
+                     </item>
+                     <item>Evangelical Sacrifices <hi>quarto</hi>
+                     </item>
+                     <pb n="53" facs="tcp:101054:30"/>
+                     <item>on Philippians 4</item>
+                     <item>Glorious Feaſt 4</item>
+                     <item>A Chriſtians end 4</item>
+                     <item>Bowels opened 4</item>
+                     <item>Miracle of Miracles 4</item>
+                     <item>Souls Conflict 8</item>
+                     <item>Saints Fel city 8</item>
+                     <item>Bruiſed Reed 12</item>
+                     <item>Spiritual mans Aime 12</item>
+                     <item>Charter of a Chriſtian 12</item>
+                     <item>Excellency of the Goſpel 12</item>
+                     <item>Exaltation of the Goſpel 12</item>
+                     <item>Precious promiſes 12</item>
+                     <item>Breathing after God 12</item>
+                     <item>Favourite 12</item>
+                     <item>Divine Meditations 12</item>
+                     <item>Brides longing for the Bribe<g ref="char:EOLhyphen"/>grooms ſecond coming 12</item>
+                     <item>Fountain ſealed, With two Sermons 12</item>
+                     <item>A Glance of Heaven 12</item>
+                     <item>Two Sermons 1. The Spouſe her earneſt deſire after Chriſt. 2. The power of Chriſts Reſurrection 12</item>
+                     <item>Riches of Mercy 12</item>
+                     <item>Heavenly Conference be<g ref="char:EOLhyphen"/>tween Chriſt and <hi>Mary</hi> after his Reſurrection 12</item>
+                  </list>
+               </item>
+               <pb n="54" facs="tcp:101054:31"/>
+               <item>Dr. <hi>Slater</hi> on Theſſalonians 4
+<list>
+                     <item>on the 1, 2, 3, 4 Chapt. <hi>Romans.</hi> 4</item>
+                     <item>on Malachy 4</item>
+                     <item>his Catechiſm 8</item>
+                     <item>on the Pſalms. 4</item>
+                     <item>on the Sacrament. 4</item>
+                     <item>on Judges 5.31. 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Symonds,</hi> Caſe and Cure 8
+<list>
+                     <item>Sight and Faith 8</item>
+                     <item>Three Treatiſes, The ſixed eye 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Sym</hi> of murder 4</item>
+               <item>M. <hi>Stock</hi> on Malachy <hi>folio</hi>
+               </item>
+               <item>D <hi>Sanderſons</hi> Sermons 4</item>
+               <item>D. <hi>Stoughtons</hi> 13. Sermons 4
+<list>
+                     <item>Two Sermons 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Shepherd,</hi> Sincere Convert 8
+<list>
+                     <item>Sound believer 8</item>
+                     <item>on Sabbath, and ſelect Caſes 8</item>
+                     <item>of the right uſe of Liberty 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Obad. Sedgwick,</hi> Doubting Chriſtian
+<list>
+                     <item>reſolved, nature and grace 12</item>
+                     <item>Counſel to the Church of Sardis, 8</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Spurſtow</hi> on the Promiſes 8
+<list>
+                     <item>Three Sermons 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sedgwick</hi> wonder working God 12</item>
+               <item>
+                  <hi>Strodes</hi> Anatomy of mortality. 4.</item>
+               <pb n="55" facs="tcp:101054:31"/>
+               <item>
+                  <hi>Swans Redde debitum</hi> 4
+<list>
+                     <item>
+                        <hi>Speculum mundi</hi> 4</item>
+                     <item>
+                        <hi>Calamus Menſurans.</hi> 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Shepherds</hi> 4 caſes 12.
+<list>
+                     <item>Defenſe of Lay mens expounding Scriptures 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sutton</hi> on Romans 4
+<list>
+                     <item>Live and Dye 12</item>
+                     <item>On the Sacrament 12</item>
+                     <item>Englands Summons 12</item>
+                     <item>Falſhood of <hi>Romes</hi> Church 12</item>
+                  </list>
+               </item>
+               <item>Bp <hi>Smiths</hi> Sermons <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Smith</hi> on the Creed <hi>fol.</hi>
+                  <list>
+                     <item>Eſſex done 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Smith</hi> of Davids Repentance 12
+<list>
+                     <item>Davids Bleſſed Man 8</item>
+                     <item>Great Aſſize 12</item>
+                     <item>Admirable Convert 8</item>
+                     <item>Ethiopian Eunuch 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Staffords</hi> Day of Salvation 24</item>
+               <item>
+                  <hi>Skippon</hi> on Promiſes 24
+<list>
+                     <item>Vowes 24</item>
+                  </list>
+               </item>
+               <item>Sacramental ſtumbling-block removed 4</item>
+               <item>Saints Zeal againſt ſinful altars 8</item>
+               <item>
+                  <hi>Hen. Smiths</hi> Sermons 4</item>
+               <item>Stay of the faithful 12</item>
+               <item>Shipwrack of falſe Churches 4</item>
+               <item>
+                  <hi>Ed. Symonds</hi> Scripture vindicated 4</item>
+               <pb n="56" facs="tcp:101054:32"/>
+               <item>
+                  <hi>Sydenham</hi> of Baptiſm 8
+<list>
+                     <item>Myſtery of godlineſſe 8</item>
+                     <item>of hypocriſie 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Senaults</hi> Man become guilty 4
+<list>
+                     <item>Chriſtian man 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sarſons</hi> Analyſis on Timothy 4</item>
+               <item>
+                  <hi>Eſquire</hi> on Theſſalonians 4</item>
+               <item>Sermons on ſundry occaſions 4</item>
+               <item>Sweet poſie of Saints 12</item>
+               <item>
+                  <hi>Stoaks</hi> Wiltſhire Rant 4</item>
+               <item>Soveraign ſalve 8</item>
+               <item>
+                  <hi>Spira's</hi> Life and death 12</item>
+               <item>
+                  <hi>Spare houres</hi> of Meditations 12</item>
+               <item>Spiritual Almes 2</item>
+               <item>Saints ſolace 12</item>
+               <item>
+                  <hi>Stalham</hi> againſt Oates expoſition of Matth. 13.44. 4</item>
+               <item>Strength out of weakneſs, a relation of the Indians converſion 4</item>
+               <item>
+                  <hi>Scultetus</hi> of Epiſcopacy 4</item>
+               <item>
+                  <hi>Spencers</hi> Art of Logick 8</item>
+               <item>
+                  <hi>Saltmarſh</hi> Free Grace 12
+<list>
+                     <item>Sparkles of glory 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Stock</hi> on Attributes 4</item>
+               <item>
+                  <hi>Stoughtons</hi> Definition of Divinity 4
+<list>
+                     <item>15 Sermons 4</item>
+                     <item>7 Sermons 4</item>
+                     <item>Chriſtian Sacrifice 4</item>
+                     <pb n="57" facs="tcp:101054:32"/>
+                     <item>
+                        <hi>Foelicitas ultima ſaeculi Epiſtola</hi> 8</item>
+                     <item>Heavenly converſation 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Synge</hi> againſt <hi>Maloone</hi> a Jeſuite 4</item>
+               <item>
+                  <hi>Sands Europae Speculum</hi> 12
+<list>
+                     <item>Paraphraſe on Pſalms 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Spelmans</hi> Divine Right of Tythes 4
+<list>
+                     <item>
+                        <hi>De non temerandis Eccleſii</hi> 4</item>
+                     <item>
+                        <hi>Pſalterium Davidis Saxonicum</hi> 4</item>
+                  </list>
+               </item>
+               <item>Synopſis of the Fathers 8</item>
+               <item>
+                  <hi>Sprint</hi> on the Sabbath 12</item>
+               <item>
+                  <hi>Struthers</hi> chriſtian obſervation 12</item>
+               <item>School of the heart 12</item>
+               <item>Sinners ſalvation 12</item>
+               <item>Saints Legacy 12</item>
+               <item>
+                  <hi>Sheerings</hi> heart happineſſe 12</item>
+               <item>Shipwrack of falſe Churches againſt Do<g ref="char:EOLhyphen"/>ctor <hi>Chamberlain</hi> 4</item>
+               <item>Story of Stories or Life of Chriſt 8</item>
+               <item>
+                  <hi>Ob. Seidgwick</hi> of Faith 4
+<list>
+                     <item>On Revelat. 12</item>
+                     <item>On the Covenant</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="58" facs="tcp:101054:33"/>
+            <list>
+               <head>T</head>
+               <item>D. <hi>Tuckney's</hi> Sermon at Dr. 12</item>
+               <item>
+                  <hi>Hill's</hi> Funeral 12
+<list>
+                     <item>His Balm for Gilead 12</item>
+                     <item>None but Chriſt: With an En<g ref="char:EOLhyphen"/>quiry what becomes of Hea<g ref="char:EOLhyphen"/>thens and Ideots 12</item>
+                     <item>The Day of the Churches peace and reſt improved</item>
+                     <item>Travels of the Patriarcks 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Tillinghaſts</hi> Generation Work 8
+<list>
+                     <item>Knowledge of the times 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Trapp</hi> on Pentatench 4
+<list>
+                     <item>on Proverbs 4</item>
+                     <item>on Hiſtorical part <hi>folio</hi>
+                     </item>
+                     <item>on the Small Prophets <hi>folio</hi>
+                     </item>
+                     <item>on Evangeliſts <hi>folio</hi>
+                     </item>
+                     <item>on Epiſtles <hi>folio</hi>
+                     </item>
+                     <item>True Treaſure 8</item>
+                     <item>Love Tokens 12</item>
+                  </list>
+               </item>
+               <pb n="59" facs="tcp:101054:33"/>
+               <item>Dr. <hi>Th. Taylor</hi> on the 32 Pſalm <hi>quarto</hi>
+                  <list>
+                     <item>on Titus <hi>quarto</hi>
+                     </item>
+                     <item>on Acts <hi>quarto</hi>
+                     </item>
+                     <item>on ch. 12. Revelations <hi>quarto</hi>
+                     </item>
+                     <item>on Temptations <hi>quarto</hi>
+                     </item>
+                     <item>on the Types <hi>quarto</hi>
+                     </item>
+                     <item>Saints progreſſe <hi>quarto</hi>
+                     </item>
+                     <item>Parable of the Sower <hi>quarto</hi>
+                     </item>
+                     <item>Kings Bath 8</item>
+                     <item>Of Contentment 8</item>
+                     <item>Of Repentance, and the Medita<g ref="char:EOLhyphen"/>tion of the Creatures: Of the New creature 12</item>
+                     <item>His caſe of flying in time of the Plague. <hi>A ſheet broad way.</hi>
+                     </item>
+                     <item>Pearl of the Goſpel; With a Looking-glaſs for Gentle-wo<g ref="char:EOLhyphen"/>men 12</item>
+                     <item>Circumſpect walking 12</item>
+                     <item>
+                        <hi>Regula Vitae,</hi> againſt the Anti<g ref="char:EOLhyphen"/>nomians 12</item>
+                     <item>A Book in <hi>folio</hi> containing theſe following Tracts,
+<list>
+                           <item>Catechiſtical exerciſes</item>
+                           <item>The Jaylors Converſion.</item>
+                           <item>Famine of the Word.</item>
+                           <item>Peters Repentance.</item>
+                           <item>Judas his Repentance.</item>
+                           <item>The Oracle of the Goſpel.</item>
+                           <pb n="60" facs="tcp:101054:34"/>
+                           <item>The ſtranger at home</item>
+                           <item>The green and dry tree.</item>
+                           <item>The pattern of Peace.</item>
+                           <item>A caveat againſt offences</item>
+                           <item>The Nicholaitan doctrin hateful</item>
+                           <item>Moderation in things of this life.</item>
+                           <item>A precedent for Preachers.</item>
+                           <item>Excuſe of a good Chriſtian</item>
+                           <item>Two contrary Maſters.</item>
+                           <item>The Houſe of God</item>
+                           <item>The badg of a true Chriſtian</item>
+                           <item>
+                              <hi>Jephthah's</hi> Vow.</item>
+                           <item>New Map of <hi>Rome.</hi>
+                           </item>
+                           <item>Labor in Vaine</item>
+                           <item>Againſt following the multitude</item>
+                           <item>Principle of Practiſe.</item>
+                           <item>Kings Bath.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Teats</hi> Scripture map 4</item>
+               <item>
+                  <hi>Torſhel</hi> of hypocriſie 4
+<list>
+                     <item>Womans glory 12</item>
+                     <item>Two Queſtions 12</item>
+                     <item>Caſes of conſcience 12</item>
+                     <item>Harmonizing the Bible 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Tozers</hi> Directions for godly life 12
+<list>
+                     <item>Chriſtian Wiſdom 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Top</hi> on the Pſalms <hi>fol.</hi>
+               </item>
+               <item>
+                  <hi>Tayler</hi> of Election 8</item>
+               <pb n="61" facs="tcp:101054:34"/>
+               <item>
+                  <hi>Twiſs</hi> againſt Hoard <hi>fol.</hi>
+                  <list>
+                     <item>on Sabbath 4</item>
+                     <item>
+                        <hi>Vindiciae gratiae</hi> 4</item>
+                     <item>Doubting Conſcience 12</item>
+                     <item>Vindication of the Church of England 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Tombs</hi> of Scandal 12
+<list>
+                     <item>Againſt <hi>Baxter</hi> 4</item>
+                     <item>of ſin in glorying in men 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Thorndik</hi>'s Right of the Church 8
+<list>
+                     <item>Religious Aſſemblyes 8</item>
+                     <item>Lexicon <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Tichburnes</hi> Canaans Grapes 4</item>
+               <item>
+                  <hi>Tompſon</hi> Antichriſt arraigned 4</item>
+               <item>Touchſtone of Truth 8</item>
+               <item>
+                  <hi>Timpſons</hi> vindication of <hi>Humphreys</hi> 8</item>
+               <item>
+                  <hi>Taffins</hi> Marks of Gods child 12</item>
+               <item>Dr. <hi>Turner</hi> of the right of the Church 4</item>
+            </list>
+            <pb n="62" facs="tcp:101054:35"/>
+            <list>
+               <head>V</head>
+               <item>Bp <hi>
+                     <g ref="char:V">Ʋ</g>ſhers</hi> Body of Divinity <hi>fol</hi>
+                  <list>
+                     <item>Chronologia, firſt part the ſecond part <hi>fol</hi>
+                     </item>
+                     <item>His anſwer tn the Jeſuite 4</item>
+                     <item>His <hi>Gotteſchalci</hi> 4</item>
+                     <item>
+                        <hi>De Primordii</hi> 4</item>
+                     <item>
+                        <hi>Epiſtolarum Hibern.</hi> 4</item>
+                     <item>Method for Meditation 8</item>
+                     <item>Principles 12</item>
+                     <item>View of the Scripture <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>dal</hi> on the Lamentations 4</item>
+               <item>
+                  <hi>Virels</hi> Grounds 12
+<list>
+                     <item>Viſibility of the true Church 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Valdeſſo's</hi> Divine Conſiderations 8</item>
+               <item>
+                  <hi>Vaughan</hi> Church Militant, a Poem 8</item>
+               <item>Mr. <hi>Vennings</hi> Orthodox Paradoxes 8
+<list>
+                     <item>New Commandment 8</item>
+                     <item>Myſteries and Revelations 8</item>
+                     <pb n="63" facs="tcp:101054:35"/>
+                     <item>Milk and Honey, firſt part 8</item>
+                     <item>the ſecond part 8</item>
+                     <item>A warning to Back-ſliders 8</item>
+                     <item>Path to true happineſſe 4</item>
+                     <item>Mercies Memorial, with M. <hi>Clarks</hi> Relation of the Powder Trea<g ref="char:EOLhyphen"/>ſon annexed 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>rſinus</hi> Catechiſm <hi>fol.</hi>
+               </item>
+               <item>Vindication of Accademyes againſt <hi>Webſter</hi> 4</item>
+            </list>
+            <pb n="64" facs="tcp:101054:36"/>
+            <list>
+               <head>W</head>
+               <item>Dr. <hi>Willet</hi> on Geneſis, and <hi>quarto</hi>
+                  <list>
+                     <item>Exodus <hi>quarto</hi>
+                     </item>
+                     <item>Leviticus <hi>quarto</hi>
+                     </item>
+                     <item>Samuel <hi>quarto</hi>
+                     </item>
+                     <item>Daniel <hi>quarto</hi>
+                     </item>
+                     <item>Romans <hi>quarto</hi>
+                     </item>
+                     <item>
+                        <hi>Synopſis Baptiſmi quarto</hi>
+                     </item>
+                     <item>
+                        <hi>De Gratia quarto</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>D. <hi>Francis White</hi> againſt <hi>Fiſher fol.</hi>
+               </item>
+               <item>D. <hi>John White</hi> Orthodox Church <hi>fol.</hi>
+                  <list>
+                     <item>Bp <hi>Williams</hi> Beſt Religion <hi>fol.</hi>
+                     </item>
+                     <item>on the Church <hi>fol.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>M. <hi>Ward</hi> on Matthew <hi>fol.</hi>
+               </item>
+               <item>D. <hi>Wilkins</hi> Eccleſiaſtes 8
+<list>
+                     <item>An elaborate Piece in this kind but in a different method 8</item>
+                     <item>of Prayer 8</item>
+                     <item>Beauty of Providence 12</item>
+                  </list>
+               </item>
+               <pb n="65" facs="tcp:101054:36"/>
+               <item>M. <hi>Whately</hi> Prototypes <hi>fol.</hi>
+                  <list>
+                     <item>Bride-Buſh 4</item>
+                     <item>Care-cloth 4</item>
+                     <item>Husbandry 4</item>
+                     <item>New Birth 4</item>
+                     <item>Redemption of time 4</item>
+                     <item>Poor mans Advocate 12</item>
+                     <item>Oyl of Gladneſſe 12</item>
+                     <item>Caveat for Covetous 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Wilſon</hi> on the Romans <hi>fol.</hi>
+                  <list>
+                     <item>His Dictionary <hi>fol.</hi>
+                     </item>
+                     <item>Saints by Calling 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Walls</hi> None but Chriſt 8</item>
+               <item>M. <hi>Wells</hi> Proſpect of Eternity 8</item>
+               <item>M. <hi>Watſons</hi> Chriſtians Charter 8
+<list>
+                     <item>Anatomy of the Heart 8</item>
+                     <item>Divine Contentment 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>White</hi> Directory to Perfection 12
+<list>
+                     <item>on Matthew 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Woodbridg</hi> of Juſtification 4</item>
+               <item>
+                  <hi>Wollebius</hi> Body of Divinity 8</item>
+               <item>
+                  <hi>Wetherels</hi> five Sermons 12</item>
+               <item>
+                  <hi>Wilſons</hi> Help to Faith 12</item>
+               <item>
+                  <hi>Wallers</hi> Divine Meditations 12</item>
+               <item>
+                  <hi>Wells</hi> Anchor of Hope 12</item>
+               <item>
+                  <hi>Woottons</hi> Run from Rome 12</item>
+               <item>
+                  <hi>Warwicks</hi> Meditations 12</item>
+               <item>
+                  <hi>Wardners</hi> Gaines loſs 12</item>
+               <item>
+                  <hi>Woodards</hi> Child Patrimony 4</item>
+               <pb n="66" facs="tcp:101054:37"/>
+               <item>
+                  <hi>Weſtfields</hi> Sermons 4</item>
+               <item>
+                  <hi>Wrights</hi> Paſſions of the Mind 4</item>
+               <item>
+                  <hi>Wings</hi> Saints Advantage 12</item>
+               <item>
+                  <hi>Wards</hi> divine uſe of the Load-ſtone Latine and Engliſh 12
+<list>
+                     <item>Sermons in <hi>octavo.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Weynels</hi> Covenants plea for Infant Bap<g ref="char:EOLhyphen"/>tiſm 4</item>
+               <item>
+                  <hi>Willis</hi> Divine Meditations 12</item>
+               <item>
+                  <hi>Webſters</hi> Overthrow of Academies 4</item>
+               <item>Dr. <hi>Warmiſtry's</hi> Blind Guide 8
+<list>
+                     <item>Meditations 12</item>
+                     <item>White Salt 12</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Williams</hi> Six Sermons 4</item>
+               <item>Dr. <hi>Weſtfields</hi> Sermons 4</item>
+               <item>
+                  <hi>Wilcox</hi> ſix Sermons 4</item>
+               <item>
+                  <hi>Worſhips</hi> Three Sermons 4</item>
+               <item>
+                  <hi>Weemſe</hi> Works 4</item>
+               <item>
+                  <hi>Walker</hi> On Creation 4
+<list>
+                     <item>Key of Knowledg 4</item>
+                     <item>Againſt Socinianiſme 8</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Wilmer</hi> on the Sacrament 8</item>
+               <item>
+                  <hi>Wilſons</hi> Childs Trade 12
+<list>
+                     <item>
+                        <hi>Zacheus</hi> converted 12</item>
+                  </list>
+               </item>
+               <item>Weak Believer reſolved 12</item>
+               <item>
+                  <hi>Withers</hi> Pſalms 12</item>
+               <item>
+                  <hi>Warrens</hi> Spiritual thrift 4</item>
+               <item>
+                  <hi>Whetfield</hi> againſt the Antinomians 4
+<list>
+                     <item>of the Converſion of Indians 4</item>
+                  </list>
+               </item>
+               <pb n="65" facs="tcp:101054:37"/>
+               <item>
+                  <hi>Whitles</hi> Celeſtial Paradiſe 4</item>
+               <item>
+                  <hi>Ward</hi> againſt <hi>Hobbs</hi> 8</item>
+               <item>
+                  <hi>Wallis</hi> againſt <hi>Hobbs</hi> 8</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>M. <hi>Young De Sabbatho</hi> 4</item>
+               <item>M. <hi>Yarrowes</hi> Comfort<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12</item>
+               <item>M. <hi>Youngs</hi> Drunkards charge, or ſin ſtig<g ref="char:EOLhyphen"/>matized 8
+<list>
+                     <item>Cure of miſpriſion 8</item>
+                     <item>Victory of Patience 8</item>
+                     <item>Againſt Swearing 8</item>
+                     <item>Englands bane 8</item>
+                     <item>With ſeveral ſmall Pieces.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Yates Imago Mundi</hi> 4
+<list>
+                     <item>Honor of Gods Houſe 4</item>
+                     <item>Model of Divinity 4</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="catalogue_of_sermons">
+            <pb facs="tcp:101054:38"/>
+            <pb n="69" facs="tcp:101054:38"/>
+            <head>A CATALOGUE OF SERMONS Upon Sundry Occaſions: <hi>Some Printed long ſince, others of Late Years.</hi>
+            </head>
+            <list>
+               <head>A</head>
+               <item>
+                  <hi>ATkins</hi> The Chriſtians Race:</item>
+               <item>
+                  <hi>Aliſbury</hi> the Paſſion Sermon.</item>
+               <item>
+                  <hi>Abbot</hi> the danger of Popery.</item>
+               <item>
+                  <hi>Andrewes</hi> the Brazen Serpent.</item>
+               <item>
+                  <hi>Adams</hi> White Devil.
+<list>
+                     <item>The Temple</item>
+                  </list>
+               </item>
+               <item>Bp. <hi>Andrews</hi> A Sermon before the King.
+<list>
+                     <item>A Sermon before the King <hi>No<g ref="char:EOLhyphen"/>vemb.</hi> 5. 1618.</item>
+                  </list>
+               </item>
+               <pb n="72" facs="tcp:101054:39"/>
+               <item>D. <hi>Arrowſmith</hi> Englands Ebenezer</item>
+               <item>D. <hi>Archbold</hi> The Beauty of Hell</item>
+               <item>
+                  <hi>Aſh</hi> The Church ſinking
+<list>
+                     <item>beſt Refuge</item>
+                     <item>Real Thankfulneſſe</item>
+                     <item>Religious covenanting</item>
+                     <item>Self Surrender unto God</item>
+                     <item>Gods Incomparable Goodneſs to Iſrael</item>
+                     <item>The efficiency of Gods Grace</item>
+                     <item>Chriſt the Riches of the Goſpel</item>
+                     <item>Support for the ſinking Heart</item>
+                     <item>Living Loves, at Mr. <hi>Whitakers</hi> Funeral</item>
+                     <item>At Mr. <hi>Gatakers</hi> Funeral</item>
+                     <item>Of Zeale</item>
+                     <item>At Mr. <hi>Robinſons</hi> Funeral</item>
+                     <item>Good Courage</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="69" facs="tcp:101054:39"/>
+            <list>
+               <head>B</head>
+               <item>
+                  <hi>Bayne</hi> The Chriſtians Garment
+<list>
+                     <item>A Caveat for cold Chriſtians</item>
+                     <item>An Epitomy of Mans Miſery</item>
+                     <item>A Counterbane againſt Earthly covetouſneſs</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Brooks</hi> The Houſe of God
+<list>
+                     <item>A Sermon at Pauls Croſſe againſt Schiſmaticks and Hereticks</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Bury</hi> The Modern Chriſtian</item>
+               <item>
+                  <hi>Burrell</hi> Suttons Synagogue</item>
+               <item>
+                  <hi>Buggs</hi> Davids ſtrait
+<list>
+                     <item>
+                        <hi>Miles Mediterraneus</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Burches</hi> A Sermon at <hi>Owburn</hi> in <hi>Bucking<g ref="char:EOLhyphen"/>hamſhire</hi>
+               </item>
+               <item>D. <hi>Burges</hi> A Sermon before K. <hi>James</hi>
+               </item>
+               <item>
+                  <hi>Brinſley</hi> The Preachers Charges
+<list>
+                     <item>D: <hi>B.</hi> A Sermon at the Funeral of the Earle of Kent</item>
+                  </list>
+               </item>
+               <pb n="72" facs="tcp:101054:40"/>
+               <item>
+                  <hi>Barnes</hi> A Sermon at a Viſitation at <hi>Hen<g ref="char:EOLhyphen"/>ly,</hi> 27 April:</item>
+               <item>
+                  <hi>Bayn</hi> the Tryal of a Chriſtians Eſtate</item>
+               <item>
+                  <hi>Baylie</hi> the Spiritual Marriage.</item>
+               <item>
+                  <hi>Buckeridg</hi> A Sermon before the King</item>
+               <item>
+                  <hi>Brown</hi> A Copy of a Sermon <hi>Decemb.</hi> 24.</item>
+               <item>
+                  <hi>Brinſley</hi> the Glory of the later Temple</item>
+               <item>
+                  <hi>Boughen</hi> A Sermon of Decency and Or<g ref="char:EOLhyphen"/>der.</item>
+               <item>
+                  <hi>Bagnal</hi> the Stewards laſt Account</item>
+               <item>
+                  <hi>Benifeild</hi> Auguration of King <hi>James</hi>
+               </item>
+               <item>
+                  <hi>Bargrave</hi> A Sermon before the Parlia<g ref="char:EOLhyphen"/>ment
+<list>
+                     <item>A Sermon before King <hi>Charles.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Burges</hi> Romes Cruelty and Apoſtaſie</item>
+               <item>
+                  <hi>Brown</hi> A Sermon at an Aſſize at <hi>Winche<g ref="char:EOLhyphen"/>ſter</hi>
+               </item>
+               <item>
+                  <hi>Bery</hi> The School of Godly Fear</item>
+               <item>D. <hi>Belcanqual</hi> A Sermon at the Spittle, 14 April</item>
+               <item>
+                  <hi>Berkenhead</hi> A Sermon before the King</item>
+               <item>
+                  <hi>Bales Oratio Dominica</hi>
+               </item>
+               <item>
+                  <hi>Bond</hi> A door of Hope, two Treatiſes</item>
+               <item>
+                  <hi>Byrd</hi> Loves Peerleſs Paragon</item>
+               <item>
+                  <hi>Barnes Vox Belli,</hi> Allarum to War</item>
+               <item>D. <hi>Bray</hi> A Sermon of the Sacrament</item>
+               <item>
+                  <hi>Blenkow, Michaels</hi> Combat with the Devil</item>
+               <item>
+                  <hi>Boles</hi> Zeal for Gods Houſe</item>
+               <pb n="73" facs="tcp:101054:40"/>
+               <item>
+                  <hi>Burgeſs</hi> A Sermon before the Parliament</item>
+               <item>
+                  <hi>Bond</hi> Salvation in a Miſt.</item>
+               <item>
+                  <hi>B.</hi> The Narrow Way</item>
+               <item>
+                  <hi>Burton</hi> Iſraels Faſt
+<list>
+                     <item>A moſt Godly Sermon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Baughe</hi> A Summons to Judgment</item>
+               <item>
+                  <hi>Bridges Joabs</hi> Counſel
+<list>
+                     <item>A Sermon before the Houſe of Commons</item>
+                     <item>
+                        <hi>Babylons</hi> Downfal</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Burton</hi> A Sermon preacht at <hi>Warwick</hi>
+               </item>
+               <item>
+                  <hi>Byfield</hi> Temple Defiler defiled</item>
+               <item>
+                  <hi>Bayly</hi> Satan the Leader in Chief</item>
+               <item>
+                  <hi>Blackwell</hi> A Caveat for Magiſtrates</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>Caril</hi> The Nature of a Covenant</item>
+               <item>
+                  <hi>Cheynel</hi> Sions Memento</item>
+               <item>
+                  <hi>Cook</hi> A White ſheet</item>
+               <item>
+                  <hi>Carter</hi> Chriſt his Laſt Will</item>
+               <pb n="76" facs="tcp:101054:41"/>
+               <item>
+                  <hi>Cheaſte</hi> The Chriſtian Pathway
+<list>
+                     <item>the Way of Life</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cooper</hi> The Worldlings Adventure</item>
+               <item>
+                  <hi>Carpenter</hi> the Conſcionable Chriſtian</item>
+               <item>
+                  <hi>Craſhaw</hi> the Parable of Poyſon</item>
+               <item>
+                  <hi>Cantrel</hi> a Sermon preached in <hi>Oxforſhire</hi>
+               </item>
+               <item>
+                  <hi>Cleland</hi> Jacobs Well</item>
+               <item>
+                  <hi>Copland</hi> Virginia's God be thanked</item>
+               <item>
+                  <hi>Caſe</hi> the Nature and Neceſſity of Godly fear
+<list>
+                     <item>Of the Nature and end of Repen<g ref="char:EOLhyphen"/>tance</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Clever</hi> on the 51 Pſalm 1.</item>
+               <item>
+                  <hi>Carter</hi> Iſraels Peace with God</item>
+               <item>
+                  <hi>Caril</hi> the Works of Epheſus
+<list>
+                     <item>Davids Prayer for Solomon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cheſhire</hi> A Sermon at S. <hi>Peters</hi> before the Lords
+<list>
+                     <item>A copy of a Sermon at Pauls</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cooper</hi> the Converts firſt Love
+<list>
+                     <item>the Bleſsing of Japheth</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cade</hi> S. <hi>Pauls</hi> Agonie</item>
+               <item>
+                  <hi>Cawdry</hi> Humility the Saints Livery</item>
+               <item>
+                  <hi>C.</hi> the Juſt Mans Memorial</item>
+               <item>
+                  <hi>Cannon</hi> the Cryer</item>
+               <item>
+                  <hi>Calvin</hi> Four Sermons profitable for the times</item>
+               <item>
+                  <hi>Corbet</hi> Gods Providence</item>
+               <item>
+                  <hi>Chambers</hi> A Divine Ball</item>
+               <pb n="73" facs="tcp:101054:41"/>
+               <item>
+                  <hi>Crakanthorp</hi> A Sermon at the Inaugurati<g ref="char:EOLhyphen"/>on of King <hi>James.</hi>
+               </item>
+               <item>
+                  <hi>Catlin</hi> the hidden Treaſure</item>
+               <item>
+                  <hi>Cawdry</hi> The Good Man</item>
+               <item>
+                  <hi>Coleman</hi> Hopes deferr'd, &amp;c.</item>
+               <item>
+                  <hi>Cotesford</hi> A Very Soveraign Oyle</item>
+               <item>
+                  <hi>Caril</hi> the Airaignment of unbelievers</item>
+               <item>
+                  <hi>Calamy</hi> Englands Looking-glaſs
+<list>
+                     <item>Gods Free Mercy to England</item>
+                     <item>The Noble Mans Pattern</item>
+                     <item>Englands Antidore</item>
+                     <item>An Indictment againſt England</item>
+                     <item>The great danger of refuſing</item>
+                     <item>The Saints Transfiguration</item>
+                     <item>The Monſter of ſelf-ſeeking</item>
+                     <item>At D. <hi>Boltons</hi> Funeral</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Crofton</hi> at Mr. <hi>Freſts</hi> Funeral.</item>
+            </list>
+            <pb n="76" facs="tcp:101054:42"/>
+            <list>
+               <head>D</head>
+               <item>
+                  <hi>Dought</hi> A Diſcourſe, &amp;c.</item>
+               <item>
+                  <hi>D.G. Rex meus eſt Deus</hi>
+               </item>
+               <item>
+                  <hi>Dyke</hi> A Sermon at the Conſecration of <hi>Epping Chap.</hi>
+                  <list>
+                     <item>A Sermon before the Parlia<g ref="char:EOLhyphen"/>ment</item>
+                     <item>A Caveat for <hi>Archippus</hi>
+                     </item>
+                     <item>A counterpoiſon againſt Cove<g ref="char:EOLhyphen"/>touſneſſe</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Draxe</hi> The Earneſt of our Inheritance
+<list>
+                     <item>The Churches ſecurity</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Deniſon</hi> New Creature
+<list>
+                     <item>The White Wolf</item>
+                  </list>
+               </item>
+               <item>D. <hi>Downame</hi> A Sermon defending the Function of Biſhops
+<list>
+                     <item>Two Sermons commending the Miniſtry</item>
+                  </list>
+               </item>
+               <pb n="77" facs="tcp:101054:42"/>
+               <item>
+                  <hi>Dod</hi> and <hi>Cleaver</hi> two Sermons on <hi>Lam</hi> 3.48.</item>
+               <item>
+                  <hi>Donne</hi> A Sermon at Whitehal 24 February
+<list>
+                     <item>A Sermon 15. <hi>Septemb.</hi> at <hi>Pauls</hi> Croſſe</item>
+                     <item>Deaths Duel</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>De Dominis,</hi> Biſhop of <hi>Spalato,</hi> A Sermon preacht in Italian</item>
+               <item>
+                  <hi>Dod</hi> A Remedy againſt Contention</item>
+               <item>
+                  <hi>Dalton Londons</hi> Lautel</item>
+               <item>
+                  <hi>Deniſon</hi> The ſin againſt the Holy Ghoſt.</item>
+               <item>
+                  <hi>Dodſon</hi> A Sermon preacht in the Cathe<g ref="char:EOLhyphen"/>dral at <hi>York</hi>
+               </item>
+               <item>
+                  <hi>Digitur Dei</hi>
+               </item>
+               <item>
+                  <hi>Drant</hi> the Divine Lanthorn</item>
+               <item>
+                  <hi>Darton</hi> the True and Abſolute Biſhop</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>
+                  <hi>Eburn</hi> The twofold Tribute
+<list>
+                     <item>The Royal Law.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Eaton</hi> A Sermon, the Funeral of Mr. <hi>Dut<g ref="char:EOLhyphen"/>ton</hi>
+               </item>
+               <item>
+                  <hi>E.</hi> Anthropophagus, the Man-Eater</item>
+               <item>
+                  <hi>Evans</hi> A Tranſlation of the Book</item>
+            </list>
+            <pb n="80" facs="tcp:101054:43"/>
+            <list>
+               <head>F</head>
+               <item>
+                  <hi>Fawkner</hi> the Pedegree of Peace
+<list>
+                     <item>Nichodemus for Chriſt</item>
+                     <item>Comfort to the Afflicted</item>
+                  </list>
+               </item>
+               <item>D. <hi>Fulk</hi> the Woman of <hi>Canaan</hi>
+               </item>
+               <item>
+                  <hi>Farmer</hi> A Sermon at Pauls Croſs
+<list>
+                     <item>The bitter waters of Babylon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Flask</hi> Mans Arraignment, and Gods Mercy</item>
+               <item>
+                  <hi>Featly</hi> A Sermon preacht to Sir <hi>Thomas Warner</hi>
+                  <list>
+                     <item>The honor of chaſtity</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fuller</hi> A Sermon of Reformation
+<list>
+                     <item>A Sermon in <hi>S. Peters Weſtminſter</hi> at the Inauguration of the King</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fuller</hi> A Sermon preacht before his Maje<g ref="char:EOLhyphen"/>ſty at <hi>D.</hi> caſtle
+<list>
+                     <item>The Mourning of Mount Lebanon</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fary</hi> Gods Severity</item>
+            </list>
+            <pb n="77" facs="tcp:101054:43"/>
+            <list>
+               <head>G</head>
+               <item>
+                  <hi>Gauden</hi> the Love of Peace and Truth</item>
+               <item>
+                  <hi>G.</hi> A glympſe of <hi>Sions</hi> Glory</item>
+               <item>
+                  <hi>Gore</hi> the Way to Proſper the God of Heaven</item>
+               <item>
+                  <hi>Garey</hi> A New yeers Gift for the ſoul</item>
+               <item>
+                  <hi>Gee</hi> Two Sermons the curſe and crime of <hi>Meroz</hi>
+                  <list>
+                     <item>A Sermon of Patience at S. <hi>Ma<g ref="char:EOLhyphen"/>rys Oxford</hi>
+                     </item>
+                     <item>Hold faſt</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Granger</hi> The ſight of the World
+<list>
+                     <item>The Bread of Life</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gataker</hi> Jacobs Thankfulneſs
+<list>
+                     <item>Davids Remembrancer</item>
+                     <item>Noahs Obedience</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gumbledon</hi> Three Sermons in ſeveral places</item>
+               <item>
+                  <hi>Godskall</hi> The Ark of Noah</item>
+               <item>
+                  <hi>Gardiner</hi> A Sermon at Pauls Croſs</item>
+               <item>
+                  <hi>Gouge</hi> the Saints ſupport</item>
+               <item>
+                  <hi>Gatford</hi> an Exhortation to Peace
+<list>
+                     <item>The Praiſe of a Godly Woman</item>
+                     <item>Pauls Crown of Rejoicing</item>
+                  </list>
+               </item>
+               <pb n="80" facs="tcp:101054:44"/>
+               <item>
+                  <hi>Goodcole</hi> The Good Treaſurer</item>
+               <item>
+                  <hi>Goffe</hi> Deliverance from the Grave</item>
+               <item>
+                  <hi>Gardner</hi> A Sermon on Eaſter day</item>
+               <item>
+                  <hi>Gataker S. Stephens</hi> Will</item>
+               <item>
+                  <hi>Grantham</hi> A Marriage Sermon</item>
+               <item>
+                  <hi>Grant</hi> Gods deliverance of man</item>
+               <item>
+                  <hi>Goodwin, Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rubbabels</hi> Enemies</item>
+               <item>
+                  <hi>Greenbil</hi> The Axe at the root</item>
+               <item>Dr. <hi>Gardiner</hi> Kings Inauguration 27 March</item>
+               <item>
+                  <hi>Gower</hi> Things now a doing</item>
+               <item>
+                  <hi>Green Nehemiahs</hi> Tears</item>
+               <item>Dr. <hi>Gouge</hi> Mercies Memorial
+<list>
+                     <item>A Recovery from Apoſtacy.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Gilleſpie</hi> A Sermon preacht March 27 be<g ref="char:EOLhyphen"/>fore the Houſe of Commons
+<list>
+                     <item>A Sermon before the Lords Au<g ref="char:EOLhyphen"/>guſt 27.</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="81" facs="tcp:101054:44"/>
+            <list>
+               <head>H</head>
+               <item>
+                  <hi>Harris</hi> Deſtruction of Sodom</item>
+               <item>
+                  <hi>Hall</hi> Two Sermons</item>
+               <item>
+                  <hi>Hook</hi> A Sermon before the King, Jeruſa<g ref="char:EOLhyphen"/>lems Peace</item>
+               <item>
+                  <hi>Hopkins</hi> Two Godly and Profitable Ser<g ref="char:EOLhyphen"/>mons</item>
+               <item>
+                  <hi>Hall</hi> A Sermon at S. <hi>Bartholomew,</hi> Mar. 27.</item>
+               <item>
+                  <hi>D. Holſworth</hi> A Sermon at S. <hi>Marys,</hi> March 27.</item>
+               <item>
+                  <hi>Hoard</hi> the Churches Authority aſſerted</item>
+               <item>
+                  <hi>Huget</hi> A Divine Aenthyme</item>
+               <item>
+                  <hi>Holbrook</hi> Loves Complaint</item>
+               <item>
+                  <hi>Harris</hi> Peters Englargement
+<list>
+                     <item>Drunkards Cup</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hill</hi> the Splendor of the Spouſe</item>
+               <item>
+                  <hi>Holbrook</hi> A Sermon before the Company of Blackſmiths</item>
+               <pb n="82" facs="tcp:101054:45"/>
+               <item>
+                  <hi>Harris</hi> Gods goodneſs and mercie
+<list>
+                     <item>A Sermon preacht before the Houſe of Commons</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hampton</hi> Two Sermons preacht before the King in Hampſhire</item>
+               <item>
+                  <hi>Hill</hi> Trade of Truth</item>
+               <item>
+                  <hi>Herie</hi> Peare of Compaſſes
+<list>
+                     <item>Davids long</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hodges</hi> A Glympſe</item>
+               <item>
+                  <hi>Hall</hi> Heaven Raviſhed</item>
+               <item>
+                  <hi>Henderſon</hi> A Sermon preacht before the Houſe of Commons
+<list>
+                     <item>Thankſgiving July 18.</item>
+                     <item>A Sermon before the Lords.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>
+                  <hi>Jones</hi> Londons Looking back</item>
+               <item>
+                  <hi>Johnſon</hi> The Goſpels Maintenonce
+<list>
+                     <item>The Way to Glory</item>
+                     <item>Davids Teacher, at Pauls Croſſe.</item>
+                  </list>
+               </item>
+               <pb n="83" facs="tcp:101054:45"/>
+               <item>D. <hi>Jackson</hi> Judah muſt into captivity
+<list>
+                     <item>Nazateth and Bethlehem</item>
+                     <item>The Converts Happineſs</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Jofferay</hi> The Son of Gods Entertainment</item>
+               <item>
+                  <hi>Jones</hi> a Treariſe of Patience in Tribulation</item>
+               <item>
+                  <hi>Jacomb ſen.</hi> Active Spirit</item>
+               <item>
+                  <hi>Jacomb jur.</hi> at Mr. <hi>Brights</hi> Funeral.</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>Bp <hi>King</hi> A Sermon at Whitehal 5 Novem.
+<list>
+                     <item>
+                        <hi>Vitis Palatina</hi>
+                     </item>
+                     <item>His Sermons at Hampton Court</item>
+                     <item>A Sermon at Pauls Croſs in be<g ref="char:EOLhyphen"/>half of Pauls Church</item>
+                     <item>A Sermon of Thankſgiving for recovery of his Majeſty</item>
+                     <item>A Sermon in <hi>Oxon</hi> 5 Nov. 1607</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Kellet</hi> A Return from <hi>Algier</hi>
+               </item>
+               <item>D. <hi>King</hi> a Sermon of deliverance</item>
+               <pb n="84" facs="tcp:101054:46"/>
+               <item>
+                  <hi>King</hi> A Sermon at Pauls Croſs, March 27</item>
+               <item>
+                  <hi>Kenrick</hi> The Tell Troth's Requital</item>
+               <item>
+                  <hi>Kem</hi> The Meſſengers Preparation</item>
+               <item>
+                  <hi>Knollys</hi> Chriſt exalted.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>
+                  <hi>Lee</hi> The Spiritual Spring</item>
+               <item>
+                  <hi>Leſlie</hi> a Sermon before the King at <hi>Windſor</hi>
+               </item>
+               <item>D. <hi>Laud</hi> A Sermon before the King
+<list>
+                     <item>A Sermon preacht at Whitehal.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Loe</hi> The Kings Shooe</item>
+               <item>
+                  <hi>Lougher</hi> A Sermon preacht before the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Briſtol</hi>
+               </item>
+               <item>
+                  <hi>Leech</hi> S. Pauls Challenge</item>
+               <item>
+                  <hi>Lovel</hi> The Publican becoming a Penitent.</item>
+               <item>
+                  <hi>Ley</hi> the bruiſing of the Serpent</item>
+               <item>
+                  <hi>Loe</hi> Come and ſee</item>
+               <item>
+                  <hi>Love</hi> Englands Diſtemper</item>
+               <item>
+                  <hi>Laurence</hi> A Golden Trumpet</item>
+               <item>
+                  <hi>Lightfoot Elias Redivivus.</hi>
+               </item>
+            </list>
+            <pb n="85" facs="tcp:101054:46"/>
+            <list>
+               <head>M</head>
+               <item>
+                  <hi>Moſſom</hi> The King on his Throne</item>
+               <item>
+                  <hi>Marſton</hi> A Sermon before the Parliament</item>
+               <item>D. <hi>Meriton</hi> The Chriſtian Mans Aſſuring Houſe
+<list>
+                     <item>The ſinners Converſion</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Milward</hi> Jacobs Great Day</item>
+               <item>
+                  <hi>Maie</hi> A Sermon of the Communion of Saints</item>
+               <item>
+                  <hi>Milward</hi> the Sword-Bearer
+<list>
+                     <item>The Soldiers Triumph</item>
+                  </list>
+               </item>
+               <item>Bp <hi>Morton</hi> A Sermon before the King</item>
+               <item>
+                  <hi>Moulin</hi> A Sermon before the King at Greenwich</item>
+               <item>
+                  <hi>Mandevil</hi> Timothy's Task</item>
+               <item>
+                  <hi>Matthew</hi> Peters Net let down</item>
+               <item>
+                  <hi>Maſſon</hi> Chriſtian Humility</item>
+               <item>
+                  <hi>May, Epaphras</hi>
+               </item>
+               <pb n="86" facs="tcp:101054:47"/>
+               <item>
+                  <hi>Maynwaring</hi> Religion and Allegiance</item>
+               <item>
+                  <hi>Maudit</hi> The Chriſtian ſouldiers great En<g ref="char:EOLhyphen"/>gine</item>
+               <item>
+                  <hi>Marſhals</hi> firſt Sermon
+<list>
+                     <item>Peace-Offering</item>
+                     <item>Meros Curſe</item>
+                     <item>Deformations Reformed</item>
+                     <item>Pyms Funeral</item>
+                     <item>Divine Project</item>
+                     <item>Sermon of Baptiſm</item>
+                     <item>Gods Maſter Piece</item>
+                     <item>Strong Helper</item>
+                     <item>Sacred Record</item>
+                     <item>Two Edged Sword</item>
+                     <item>Auguſt 12. 1647</item>
+                     <item>Immanuel</item>
+                     <item>Hardneſs of Heart</item>
+                     <item>Underſtanding of the Times</item>
+                     <item>Thankſgiving 27 July 1648</item>
+                     <item>Vindication of Infants Baptiſm</item>
+                     <item>Sermon at the Spittle at Eaſter 1652.</item>
+                     <item>Sacred Panigerick</item>
+                     <item>Parliament Sermon Jan. 27. 1647</item>
+                     <item>Song of Moſes</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="87" facs="tcp:101054:47"/>
+            <list>
+               <head>O</head>
+               <item>
+                  <hi>Olmain</hi> Lifes Brevity</item>
+               <item>
+                  <hi>Oxley</hi> The Shepheard</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>
+                  <hi>Pigot</hi> The ſharpneſſe of the Sword</item>
+               <item>
+                  <hi>Price</hi> Lamentation for Prince <hi>Henry</hi>
+                  <list>
+                     <item>The Spring, a Sermon before the Prince</item>
+                     <item>The Creation of the Prince</item>
+                     <item>Four Sermons Spiritual Odours to the Memory of the Prince</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Peeling</hi> A Sermon of the Providence of God</item>
+               <item>
+                  <hi>Pigot</hi> Jeruſalem bedew'd with Tears</item>
+               <item>
+                  <hi>Preſton</hi> The godly mans Inquiſition, two Sermons</item>
+               <pb n="88" facs="tcp:101054:48"/>
+               <item>
+                  <hi>Parſons Honos &amp; Onus Levitarum</hi>
+                  <list>
+                     <item>Ruth and Boaz bleſſed</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Price</hi> Sauls Prohibition ſaid</item>
+               <item>
+                  <hi>Peſtel Morbus Epidemicus</hi>
+                  <list>
+                     <item>Gods Viſitation, a Sermon at Lei<g ref="char:EOLhyphen"/>ceſters Viſitation</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Price</hi> Epheſus Warning before her woe</item>
+               <item>
+                  <hi>Perrot</hi> Jacobs Vow</item>
+               <item>
+                  <hi>Proctor</hi> The Watch-mans Warning</item>
+               <item>
+                  <hi>Petley</hi> The Royal Receipt</item>
+               <item>
+                  <hi>Paynter</hi> S. Pauls Rule for Religious Peace</item>
+               <item>
+                  <hi>Philips</hi> The Fiſher-man</item>
+               <item>
+                  <hi>Parſons</hi> The Magiſtrates Charter examined</item>
+               <item>
+                  <hi>Paye</hi> Nine Sermons on ſpecial occaſions</item>
+               <item>D. <hi>Prîdeaux</hi> The Doctrine of the Sabbath</item>
+               <item>
+                  <hi>Palmer</hi> The Saints Support</item>
+               <item>
+                  <hi>Powel</hi> A Sermon at S. <hi>Marys</hi> Oxford</item>
+            </list>
+            <pb n="89" facs="tcp:101054:48"/>
+            <list>
+               <head>Q</head>
+               <item>
+                  <hi>Quelch</hi> Church Cuſtomes vindicated, two Sermons.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>
+                  <hi>Reading</hi> A Sermon at <hi>Maidſtone</hi> in Kent
+<list>
+                     <item>The Old Mans ſtaff</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Rollenſons</hi> Sermons before the King
+<list>
+                     <item>The Triumph of Conſtancy</item>
+                     <item>The Baniſhment of dogs</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>D. Reynolds</hi> The Peace of the Church
+<list>
+                     <item>The Shields of the Earth</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Reynolds</hi> A diſcovery of the Man of ſin</item>
+               <item>
+                  <hi>Rawley</hi> A Sermon of Meekneſſe</item>
+               <item>
+                  <hi>Rawlinſon</hi> Fiſhermen
+<list>
+                     <pb n="90" facs="tcp:101054:49"/>
+                     <item>Bp <hi>Roch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſter</hi> A Brand 5 November</item>
+                     <item>A Sermon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t Pauls Croſs, 10 Nov.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Reading</hi> Moſes and J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thro</item>
+               <item>
+                  <hi>Roſs</hi> God's Houſe</item>
+               <item>
+                  <hi>Reeve</hi> Three Sermons on ſeveral occaſions</item>
+               <item>
+                  <hi>Rainbow</hi> Labor forb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dden</item>
+               <item>
+                  <hi>Reeks</hi> Faith and Good Works</item>
+               <item>
+                  <hi>Reynolds</hi> Iſraels Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ition</item>
+               <item>
+                  <hi>Rogers</hi> the Poors Penſion.</item>
+            </list>
+            <list>
+               <head>A</head>
+               <item>
+                  <hi>Sweeper</hi> Iſraels Redemption</item>
+               <item>
+                  <hi>Swift</hi> A Pious Preſident for both King<g ref="char:EOLhyphen"/>domes</item>
+               <item>
+                  <hi>Squire</hi> A Sermon appointed for the New Church-yard</item>
+               <item>
+                  <hi>Sanford,</hi> Gods Arrow of the Peſtilence</item>
+               <item>
+                  <hi>Symonds</hi> A heavenly Voice</item>
+               <item>
+                  <hi>Swale</hi> Jacobs Vow</item>
+               <pb n="91" facs="tcp:101054:49"/>
+               <item>
+                  <hi>Sutton</hi> The good fight of Faith</item>
+               <item>
+                  <hi>Seller</hi> A Sermon againſt halting betweene two Opinions</item>
+               <item>
+                  <hi>Sutton</hi> Iethro's counſel to Moſes</item>
+               <item>
+                  <hi>Skinner</hi> A Sermon preacht before the King</item>
+               <item>
+                  <hi>Scot</hi> The Projectors Aſsize</item>
+               <item>
+                  <hi>Squire</hi> A Sermon on the ſecond Com<g ref="char:EOLhyphen"/>mandment</item>
+               <item>
+                  <hi>Smart</hi> A Sermon preacht in the Cathedral of Durham</item>
+               <item>
+                  <hi>D. Sclater</hi> Three Sermons</item>
+               <item>
+                  <hi>Singleton</hi> The Downfal of Shebna</item>
+               <item>
+                  <hi>Styles</hi> the Gaines of ſeeking God
+<list>
+                     <item>Sermon preacht in the City by a Lover of Truth</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Scot</hi> The Belgick Piſmire</item>
+               <item>
+                  <hi>Squire</hi> a Thankſgiving for decreaſe of the Plague
+<list>
+                     <item>Sermon preacht at Plimouth in New Eng<g ref="char:EOLhyphen"/>land</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sibbs</hi> A Miracle of Miracles</item>
+               <item>
+                  <hi>Sclater</hi> the Worthy Com. rewarded
+<list>
+                     <item>Deaths Summons, and the Saints duty</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Seidgwick</hi> Englands preſervation
+<list>
+                     <item>An Ark againſt a Deluge</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Shaw</hi> A broken Heart</item>
+               <item>
+                  <hi>Squire</hi> A Sermon preacht at harford Aſ<g ref="char:EOLhyphen"/>ſize</item>
+               <pb n="92" facs="tcp:101054:50"/>
+               <item>
+                  <hi>Schloer</hi> The death of the two Renowned Kings</item>
+               <item>
+                  <hi>Symonds</hi> A Sermon before the Commons</item>
+               <item>
+                  <hi>Scudder</hi> Gods Warning to England</item>
+               <item>D. <hi>Spurſtow</hi> Englands Pattern
+<list>
+                     <item>On the fifth of November.</item>
+                     <item>Magiſtrates Duty</item>
+                     <item>A Sermon at the Lady <hi>Vinors</hi> Fu<g ref="char:EOLhyphen"/>neral.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>Taylor</hi> Heavenly Voice
+<list>
+                     <item>The value of true Valour</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Teelink</hi> Pauls complaint</item>
+               <item>
+                  <hi>Tynley</hi> Two Learned Sermons</item>
+               <item>
+                  <hi>Tompſon</hi> A dyet for Drunkards</item>
+               <item>
+                  <hi>Temple</hi> Chriſts Government in and over</item>
+               <item>
+                  <hi>Taylor</hi> Self ſatisfaction</item>
+               <item>
+                  <hi>Tuke</hi> Jehovah Jireth</item>
+               <item>D. <hi>Tuck<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey</hi> Balm of Gilead
+<list>
+                     <item>At D. <hi>Hills</hi> Funeral</item>
+                     <item>None but Chriſt</item>
+                     <item>Good day.</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="93" facs="tcp:101054:50"/>
+            <list>
+               <head>U</head>
+               <item>
+                  <hi>Valentine</hi> God ſave the King
+<list>
+                     <item>Four Sea Sermons at <hi>Deptford</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>dny</hi> The Voyce of the Cryer, two Ser<g ref="char:EOLhyphen"/>mons
+<list>
+                     <item>A Golden Bell and Pomgranat</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>.</hi> A Diſcovery of the Rebels
+<list>
+                     <item>Bp <hi>
+                           <g ref="char:V">Ʋ</g>ſher</hi> Immanuel. &amp;c.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Vines</hi> Calebs Integrity</item>
+               <item>
+                  <hi>Valentine</hi> A Sermon preacht before the Parliament</item>
+               <item>
+                  <hi>Vertue</hi> A plea for Peace</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>dal</hi> The good of Peace</item>
+            </list>
+            <pb n="94" facs="tcp:101054:51"/>
+            <list>
+               <head>W</head>
+               <item>
+                  <hi>Whately</hi> Redemption of time
+<list>
+                     <item>Bp <hi>Williams</hi> A Sermon before the Parlia<g ref="char:EOLhyphen"/>ment</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>W.</hi> Englands Thankfulneſs, a Sermon at <hi>Stoud</hi>
+               </item>
+               <item>
+                  <hi>Wilkinſon</hi> The ſtripping of <hi>Joſeph</hi>
+               </item>
+               <item>
+                  <hi>Wigmore</hi> the Holy City
+<list>
+                     <item>The Way of all Fleſh</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>White</hi> Londons Warning</item>
+               <item>
+                  <hi>Wheatly</hi> Sin no more</item>
+               <item>
+                  <hi>Watſon</hi> A Sermon of Schiſme</item>
+               <item>
+                  <hi>Whitaker</hi> Chriſt the Settlement, &amp;c.</item>
+               <item>
+                  <hi>Walker</hi> A Sermon before the Parliament</item>
+               <item>
+                  <hi>Whincop</hi> Gods Call</item>
+               <item>
+                  <hi>Wilkinſon</hi> Merchant Roval</item>
+               <item>
+                  <hi>Williams</hi> Great Britaines Solomon</item>
+               <item>
+                  <hi>Wh.</hi> Engliſh Paradice</item>
+               <item>
+                  <hi>Wild</hi> A Sermon preacht at Oxford 3 Mar.</item>
+               <item>
+                  <hi>W.</hi> A Receipt to ſtay the Plague</item>
+               <item>
+                  <hi>White</hi> Truth and Error diſcovered</item>
+               <item>
+                  <hi>Wilkinſon</hi> a Sermon at Northampton</item>
+               <pb n="95" facs="tcp:101054:51"/>
+               <item>
+                  <hi>Whitly</hi> Londons Return</item>
+               <item>
+                  <hi>Whitfield</hi> Idolaters Ruine</item>
+               <item>
+                  <hi>Wilſon</hi> Davids Zeale</item>
+               <item>
+                  <hi>Woodcock</hi> Two Witneſſes
+<list>
+                     <item>Chriſts Warning Piece</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>White</hi> The Paſtors Chare</item>
+               <item>
+                  <hi>Watſons</hi> Sermon, One thing neceſſary.</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>
+                  <hi>Yonger</hi> The Unrighteous Iudge.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101054:52"/>
+            <pb n="85" facs="tcp:101054:52"/>
+            <head>BOOKS <hi>Printed for, and are to be ſold by</hi> JOHN ROTHWELL <hi>at the Fountain and Bear in Cheapſide.</hi>
+            </head>
+            <list>
+               <head>A</head>
+               <item>Mr. <hi>AInſworth</hi> Arrow againſt Idolatry in <hi>fol.</hi> and 12</item>
+               <item>Dr. <hi>Ames</hi> Caſes of conſcience. Engl.
+<list>
+                     <item>Marrow of Divinity. 4</item>
+                     <item>On Peter 4</item>
+                  </list>
+               </item>
+               <item>D. <hi>Arrowſmith Tactica Sacra ſive de mi<g ref="char:EOLhyphen"/>lite ſpirituali pugnante, Vin<g ref="char:EOLhyphen"/>cente &amp; Triumphante.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>M. <hi>Bradſhaw</hi> Sin againſt the H. Ghoſt 12</item>
+               <item>M. <hi>Bridges</hi> Babylons downfal 4</item>
+               <item>M. <hi>Bohemus</hi> on 100 Scriptures opened 8</item>
+               <item>M. <hi>Broxolme</hi> on Perkins Six Principles 8</item>
+            </list>
+            <pb n="84" facs="tcp:101054:53"/>
+            <list>
+               <head>C</head>
+               <item>M. <hi>Church,</hi> Miſcelanies of the Attributes of God
+<list>
+                     <item>The creatures of God 4</item>
+                     <item>Good mans Treaſury 12</item>
+                     <item>Of Ejaculations 12</item>
+                     <item>His Golden Sayings 12</item>
+                     <item>Pocket companion. 12</item>
+                  </list>
+               </item>
+               <item>M. <hi>Culverwells</hi> Light of Nature 4
+<list>
+                     <item>White ſtone (alone) 8</item>
+                  </list>
+               </item>
+               <item>M. <hi>Clark</hi> Of Perſecution and Lives of Mi<g ref="char:EOLhyphen"/>niſters. <hi>folio.</hi>
+               </item>
+               <item>M. <hi>Cravens</hi> Catechiſme 8</item>
+               <item>M. <hi>Cotton</hi> of ſinging of Pſalmes 4.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>M. <hi>Dales</hi> Shepherdizing of Lambs 8</item>
+               <item>D. <hi>Drake De Sanguine</hi> 4</item>
+               <item>M. <hi>Dyke of Epping,</hi> His Right Receiving of Chriſt 8
+<list>
+                     <item>Safety in caſe of danger 8</item>
+                     <item>Select Sermons of Quenching the Spirit, and Pardon of ſin &amp;c. 8</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="85" facs="tcp:101054:53"/>
+            <list>
+               <head>F</head>
+               <item>M. <hi>Fenner</hi> of Afflictions 4
+<list>
+                     <item>of conſcience 4</item>
+                     <item>Alarm for drouſie Saints 4</item>
+                     <item>Wilful Impenitency 4</item>
+                     <item>Catechiſme on the Creed</item>
+                     <item>Lords Prayer</item>
+                     <item>Ten Commandments</item>
+                  </list>
+               </item>
+               <item>M. <hi>Ford</hi> of Baptiſm, Catechiſing, and firſt Fruits of Davids Government 8
+<list>
+                     <item>His Catechiſe againſt the Anabap<g ref="char:EOLhyphen"/>tiſts.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>
+                  <hi>Germany</hi> Lamentations <hi>octavo</hi>
+                  <list>
+                     <item>Invaſion <hi>octavo</hi>
+                     </item>
+                     <item>Prodigies <hi>octavo</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>M. <hi>Huges</hi> Of Affliction, the benefit of it 4
+<list>
+                     <item>Funeral Sermon 4</item>
+                     <item>Parliament Sermon 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Hooks</hi> New Englands Tears 4
+<list>
+                     <item>New Englands Senſe 4</item>
+                  </list>
+               </item>
+               <pb n="84" facs="tcp:101054:54"/>
+               <item>M. <hi>How</hi> of Univerſal Redemption 4
+<list>
+                     <item>Pagan Preacher ſilenced 4</item>
+                  </list>
+               </item>
+               <item>M. <hi>Haines</hi> Grammar 8</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>M. <hi>Lockier</hi> Balm for bleeding England and Ireland 8
+<list>
+                     <item>Communion of Church militant</item>
+                     <item>Diſcovery of ſincerity 8</item>
+                     <item>Olive leafe 8</item>
+                     <item>Paliament Sermon 4</item>
+                     <item>Englands Wounds 4</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Love,</hi> Grace with its different degrees 8
+<list>
+                     <item>Zealous Chriſtian 4</item>
+                     <item>Heavens Glory and Hels Terror 4</item>
+                     <item>Effectual Calling 4</item>
+                     <item>Combate between the Fleſh and Spirit 4</item>
+                     <item>Directory of a Chriſtian 4</item>
+                     <item>The Penitent Pardoned 4</item>
+                     <item>The dejected ſouls cure</item>
+                     <item>Adminiſtration of Angels 4</item>
+                     <item>Gods Omnipreſence.</item>
+                     <item>The ſinners Legacy to their poſte<g ref="char:EOLhyphen"/>rity 4</item>
+                  </list>
+               </item>
+               <item>By Mr.
+<list>
+                     <item>
+                        <hi>Calamy</hi>
+                     </item>
+                     <item>
+                        <hi>Whitaker</hi>
+                     </item>
+                     <item>
+                        <hi>Aſhe</hi>
+                     </item>
+                     <item>
+                        <hi>Taylor</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb n="93" facs="tcp:101054:54"/>
+               <item>
+                  <hi>Longland</hi> On the four laſt things. Death, Judgment, Hell and Heaven 12</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>M. <hi>Milton</hi> His Reaſon of Church-Gover<g ref="char:EOLhyphen"/>ment 4
+<list>
+                     <item>Apology for <hi>Smectymnuus</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>M. <hi>Mathers</hi> Catechiſm 8
+<list>
+                     <item>Reply to M. <hi>Rutherford</hi> 4</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>M. <hi>Pool</hi> his Anſwer to <hi>Biddles</hi> denyal of the Holy Ghoſt to be God 12
+<list>
+                     <item>A Pacification between the Lutheran and Reformed Churches 8</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Bp <hi>Richardſon</hi> his choice Obſervations on the Old Teſtament, as a ſupple<g ref="char:EOLhyphen"/>ment to the large Annotat. <hi>fol.</hi>
+               </item>
+               <item>M. <hi>Robourough</hi> againſt <hi>Goodwin</hi> about Juſti<g ref="char:EOLhyphen"/>fication 4</item>
+            </list>
+            <pb n="92" facs="tcp:101054:55"/>
+            <list>
+               <head>S</head>
+               <item>
+                  <hi>Smectymnuus Redivivus</hi> firſt and ſecond parts about Epiſcopacy and Preſ<g ref="char:EOLhyphen"/>bytery 4</item>
+               <item>M. <hi>Shepherd</hi> on the Sabbath, with Caſes of Conſcience 8
+<list>
+                     <item>Of Subjection to Chriſt 8</item>
+                  </list>
+               </item>
+               <item>D. <hi>Sibbs</hi> Miracle of Miracles 4
+<list>
+                     <item>Glorious feaſt of the Goſpel 4</item>
+                     <item>Glance of Heaven 12</item>
+                     <item>Spiritual mans aim 12</item>
+                     <item>Charter of a Chriſtian 12</item>
+                     <item>Conference betweene Chriſt and <hi>Mary</hi> after his Reſurrecti<g ref="char:EOLhyphen"/>on 12</item>
+                  </list>
+               </item>
+               <item>Dr. <hi>Stoughtons</hi> Sermons in his younger years 4
+<list>
+                     <item>His form of ſound words, with the righteous mans plea to true Happineſs 4</item>
+                     <item>Heavenly converſation, Two Ser<g ref="char:EOLhyphen"/>mons 12</item>
+                  </list>
+               </item>
+               <item>D. <hi>Seaman</hi> of Ordination 4
+<list>
+                     <item>Solomons choice 4</item>
+                     <item>Head of the Church 4</item>
+                     <item>Glaſs for the Times 4</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="93" facs="tcp:101054:55"/>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>Theſaurus Poeticus</hi> 12</item>
+               <item>D. <hi>Tucknoy</hi> Balm for Gilead 12
+<list>
+                     <item>Death diſarmed: A Sermon at D. <hi>Hills</hi> Funeral 12</item>
+                     <item>None but Chriſt 12</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>U</head>
+               <item>M. <hi>Venning</hi> Orthodox Paradoxes 8
+<list>
+                     <item>New Command <hi>octavo</hi>
+                     </item>
+                     <item>Myſteries &amp; Revelat. <hi>octavo</hi>
+                     </item>
+                     <item>Milk and Honey Second Part. <hi>octavo</hi>
+                     </item>
+                     <item>Warning to Backſlid <hi>octavo</hi>
+                     </item>
+                     <item>Way to Heaven 4</item>
+                  </list>
+               </item>
+            </list>
+            <pb n="92" facs="tcp:101054:56"/>
+            <list>
+               <head>W</head>
+               <item>
+                  <hi>Wiſe Virgin,</hi> A Narrative of Gods deal<g ref="char:EOLhyphen"/>ing with a child of eleven yeers of age: and her gracious ſpeeches in the time of her affliction: Pub<g ref="char:EOLhyphen"/>liſhed by three Miniſters 8.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <pb n="66" facs="tcp:101054:56"/>
+            <head>POSTSCRIPT.</head>
+            <p>WHile this Catalogue was Printing, moſt of theſe Books came forth, viz.
+<list>
+                  <item>* Power of Godlineſs, of the Affections, Spiritual Combat, Govern<g ref="char:EOLhyphen"/>ment of the Tongue, on Prayer, on the Lords Prayer in <hi>folio,</hi> By Mr. <hi>John Ball.</hi>
+                  </item>
+                  <item>* M. <hi>Murcotts</hi> Sermons preached in Ire<g ref="char:EOLhyphen"/>land 4</item>
+                  <item>* D. <hi>Jackſon</hi> XI. Book of Commentaries on the Creed, containing, Chriſts Seſſion at the Right hand of
+<pb n="84" facs="tcp:101054:57"/>God, His being made Lord and Chriſt, his coming to Judgment the Reſurrection, and Life E<g ref="char:EOLhyphen"/>ternal, with divers Sermons <hi>fol.</hi>
+                  </item>
+                  <item>* D. <hi>Sam. Wards</hi> Works in Latin <hi>fol.</hi> in the Preſs.</item>
+                  <item>* M. <hi>Baxter</hi> of Baptiſm, ſecond part 4
+<list>
+                        <item>* of Popery 8</item>
+                        <item>* of Converſion.</item>
+                        <item>* <hi>Rams</hi> Catechiſm 12</item>
+                        <item>* Eſtabliſhment, or a Diſcourſe tending to ſettle the minds of men about ſome Controverſies of the pre<g ref="char:EOLhyphen"/>ſent times 4</item>
+                        <item>* The Leper cleanſed, or an Anabaptiſt re<g ref="char:EOLhyphen"/>duced 8</item>
+                     </list>
+                  </item>
+                  <item>* M. <hi>Cawdry</hi> againſt <hi>Saunders</hi> 8
+<list>
+                        <item>* againſt D. <hi>Owen</hi> of Schiſm</item>
+                     </list>
+                  </item>
+                  <item>* M. <hi>Burroughs</hi> of Reconciliation, Matth 11.28, 29, 30. in Preſs.</item>
+                  <item>* <hi>Bridges</hi> Scripture Light 4</item>
+                  <item>* <hi>Craggs</hi> Spiritual Jewel 8</item>
+                  <item>* <hi>Calvert</hi> Miniſter in York on Iſai. 53.</item>
+                  <item>* <hi>Gumbledon</hi> on Matthew</item>
+                  <item>Heaven and Earth ſhaken, written by M. <hi>Davis</hi> 8</item>
+                  <pb n="93" facs="tcp:101054:57"/>
+                  <item>* Chriſtian Legacy, Preparation for death, and Conſolation againſt death, by D. <hi>Hide</hi> 12</item>
+                  <item>* Four Sermons by M. <hi>John Hinckley</hi>
+                  </item>
+                  <item>* M. <hi>Ford</hi> and M. <hi>Fowler</hi> againſt the Qua<g ref="char:EOLhyphen"/>kers</item>
+                  <item>* M. <hi>Fowler</hi> againſt <hi>Pordage</hi>
+                  </item>
+                  <item>* <hi>Demonium Meridianum</hi>
+                  </item>
+                  <item>* M. <hi>Teats</hi> Meditations of Hearing and Praying
+<list>
+                        <item>* A bewildred ſinner 4</item>
+                     </list>
+                  </item>
+                  <item>* <hi>Hen. Carpenter</hi> of Conſcience 12</item>
+                  <item>* <hi>Pringle</hi> Stay in Trouble 8</item>
+                  <item>* <hi>Holidays</hi> Sermon, Motives to godlineſs 4</item>
+                  <item>* <hi>Antidotum contra Naufragium Fidei &amp; Bonae Conſcientiae Concio ad Cle<g ref="char:EOLhyphen"/>rum, per D.</hi> Sibbs 12</item>
+                  <item>* Mans <hi>Fury,</hi> a Sermon by M. <hi>Warren.</hi>
+                  </item>
+                  <item>* M. <hi>Obadiah Seidgwick</hi>
+                     <list>
+                        <item>a Treatiſe of Faith 4</item>
+                        <item>* of Grace 12</item>
+                        <item>* Fountaine opened 4</item>
+                     </list>
+                  </item>
+                  <pb n="85" facs="tcp:101054:58"/>
+                  <item>* M. <hi>Calamy's</hi> Godly Mans Ark, Sermons preached upon occaſion of the death of Miſtris <hi>Moore,</hi> who died of a Cancer in her Breſt; with ſome Evidences of her Salvation annexed, under her own hand.</item>
+                  <item>* The Young Mans Memento 12</item>
+                  <item>* The danger of being almoſt a Chriſtian, by <hi>John Chiſhull</hi> 12</item>
+                  <item>Some New Pieces of M. <hi>Love; viz.</hi>
+                     <list>
+                        <item>* The Dejected ſouls cure 4</item>
+                        <item>* The Adminiſtration of An<g ref="char:EOLhyphen"/>gels 4</item>
+                        <item>* Gods Omnipreſence 4</item>
+                        <item>* The Sinners Legacy to their Poſte<g ref="char:EOLhyphen"/>rity</item>
+                     </list> Atteſted by M. <hi>Calamy,</hi> M. <hi>Aſh</hi> and M. <hi>Taylor, &amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There was a Piece of M. <hi>Loves</hi> called <hi>The Souls Cordials,</hi> printed in <hi>Octavo</hi> about two yeers paſt, on Pſalm 32. ver. 5. and John 14. ver. 3. which was publiſhed by a very imperfect Copy.
+<pb n="92" facs="tcp:101054:58"/> But now called, <hi>The Penitent Pardo<g ref="char:EOLhyphen"/>ned,</hi> publiſhed by the Truſtees, and com<g ref="char:EOLhyphen"/>pared with his owne Notes, and much amended from very many faults.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
